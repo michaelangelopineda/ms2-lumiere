@@ -109,3 +109,25 @@ span .navbar-toggler-icon {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+/*about*/
+.about-img {
+    position: relative;
+    height: auto;
+    width: 100%;
+    left: 50%;
+    top: 60%;
+    transform: translate(-50%, -50%);
+    padding-top: 1em;
+    padding-bottom: 1em;
+  }
+
+  .about-text {
+      padding-top: 10em;
+  }
+
+  /*candles*/
+  #candles {
+      padding-top: 5em;
+      padding-bottom: 5em;
+  }
