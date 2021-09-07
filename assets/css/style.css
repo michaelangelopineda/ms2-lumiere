@@ -23,6 +23,9 @@ body {
     background-color: #fde2e6;
 }
 
+.bg-color-footer {
+    background-color: #fde2e6;
+}
 /*Special paddings, margins, text*/
 h1,
 h2,
@@ -148,3 +151,44 @@ span .navbar-toggler-icon {
 }
 
 /*stores*/
+
+/*contact*/
+
+/*footer*/
+footer {
+    font-size: 30px;
+    color: black;
+    font-family: "Poppins", sans-serif;
+}
+
+.input-group>.form-control,
+.input-group>.form-select {
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer .btn {
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+    color: black;
+}
+
+.list-inline-item i,
+.input-group {
+    padding-top: 20px;
+    color: black;
+}
+
+.list-inline-item i {
+    letter-spacing: 45px;
+}
+
+.list-inline-item i:hover {
+    color: rgba(0, 0, 0, 0.473);
+}
+
+.socials {
+    text-align: center
+}
