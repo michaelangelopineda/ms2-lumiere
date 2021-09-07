@@ -43,6 +43,10 @@ h6 {
     font-weight: 700;
 }
 
+.italic {
+    font-style: italic;
+}
+
 /*For shadow effect on the logo*/
 #namelogo {
     font-size: 2em;
@@ -130,4 +134,15 @@ span .navbar-toggler-icon {
   #candles {
       padding-top: 5em;
       padding-bottom: 5em;
+  }
+
+  .scents-img {
+    position: relative;
+    height: auto;
+    width: 100%;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    margin-bottom: 2em;
+    padding-bottom: 2em;
   }
