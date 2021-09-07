@@ -134,9 +134,9 @@ span .navbar-toggler-icon {
 }
 
 /*candles*/
-#candles {
-    padding-top: 5em;
-    padding-bottom: 5em;
+
+.candles-text {
+    padding: 10em 2em 5em;
 }
 
 .scents-img {
