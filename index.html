@@ -139,7 +139,7 @@
 
     <!--stores-->
 
-    <section id="stores">
+    <section id="stores" class="pt-2 pb-5">
         <div class="container">
             <div class="row stores">
                 <div class="col-12">
@@ -176,7 +176,31 @@
     </section>
 
     <!--contact-->
-
+    <section id="contact"class="contact-section bg-color-contactform pt-2 pb-5">
+        <div class="row">
+            <div class="col-md-8 offset-md-2 text-center pt-5 pb-2">
+                <h2 class="text-center uppercase gen-heading">Contact</h2>
+            </div>
+            <div class="col-md-8 offset-md-2 text-center">
+                <h4 class="italic text-spacing text-center">Want to get in touch? Fill in the form and we'll get back to you as soon as possible.</h4>
+            </div>
+            <div class="center-form2 col-md-8 offset-md-2 text-center pt-5 pb-5">
+                <form class="form2" action="form-sent.html">
+                    <input type="text" name="name" id="name" class="form-control" placeholder="Name" required>
+                    <input type="email" name="email" id="email" class="form-control" placeholder="Email" required>
+                    <input type="tel" name="phone" id="phone" class="form-control" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
+                        placeholder="Contact Number (012-345-6789)" required>
+                    <textarea rows="5" name="description" id="description" class="form-control"
+                        placeholder="Your message" required></textarea>
+                    <div class="form-row text-center pt-5">
+                        <div class="col">
+                            <button type="submit" class="btn bg-color-button2 btn-secondary">Send Message</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </section>
 
     <!--footer-->
 
