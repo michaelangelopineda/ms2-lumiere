@@ -124,19 +124,19 @@ span .navbar-toggler-icon {
     transform: translate(-50%, -50%);
     padding-top: 1em;
     padding-bottom: 1em;
-  }
+}
 
-  .about-text {
-      padding-top: 10em;
-  }
+.about-text {
+    padding-top: 10em;
+}
 
-  /*candles*/
-  #candles {
-      padding-top: 5em;
-      padding-bottom: 5em;
-  }
+/*candles*/
+#candles {
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
 
-  .scents-img {
+.scents-img {
     position: relative;
     height: auto;
     width: 100%;
@@ -145,4 +145,6 @@ span .navbar-toggler-icon {
     transform: translate(-50%, -50%);
     margin-bottom: 2em;
     padding-bottom: 2em;
-  }
+}
+
+/*stores*/
