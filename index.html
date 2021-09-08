@@ -202,19 +202,25 @@
                     you as soon as possible.</h4>
             </div>
             <div class="center-form2 col-md-8 offset-md-2 text-center pt-5 pb-5">
-                <form onsubmit="return sendMail(this);" class="form2" action="form-sent.html">
+                <form onsubmit="return sendMail(this);" id="contactForm" class="form2" action="form-sent.html">
                     <input type="text" name="name" id="name" class="form-control" placeholder="Name" required>
                     <input type="email" name="email" id="email" class="form-control" placeholder="Email" required>
                     <input type="tel" name="phone" id="phone" class="form-control" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
                         placeholder="Contact Number (012-345-6789)" required>
-                    <textarea rows="5" name="message" id="message" class="form-control"
-                        placeholder="Message" required></textarea>
+                    <textarea rows="5" name="message" id="message" class="form-control" placeholder="Message"
+                        required></textarea>
                     <div class="form-row text-center pt-5">
                         <div class="col">
                             <button type="submit" class="btn bg-color-button2 btn-secondary">Send Message</button>
                         </div>
                     </div>
                 </form>
+            </div>
+            <div id="modal-background">
+                <div id="modal">
+                    <p id="modalText"></p>
+                    <button type="button" class="btn" id="modal-button">Close</button>
+                </div>
             </div>
         </div>
     </section>
