@@ -20,11 +20,28 @@ body {
 
 /*color*/
 .bg-color-navbar {
-    background-color: #fde2e6;
+    background-color: #f5c7ce;
 }
 
 .bg-color-footer {
+    background-color: #f5c7ce;
+}
+
+.bg-color-contactform {
+    background-color: #dde9e670;
+}
+
+.bg-color-button2 {
+    background-color: #f5c7ce;
+    border-color: transparent;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+    color: black;
+}
+
+.bg-color-button {
     background-color: #fde2e6;
+    border-color: transparent;
 }
 /*Special paddings, margins, text*/
 h1,
@@ -139,6 +156,11 @@ span .navbar-toggler-icon {
     padding: 10em 2em 5em;
 }
 
+.scents-effect:hover {
+    color: rgba(0, 0, 0, 0.651);
+}
+
+
 .scents-img {
     position: relative;
     height: auto;
@@ -153,10 +175,10 @@ span .navbar-toggler-icon {
 /*stores*/
 
 #map {
-    width: 100%;
-    height: 50vh;
-    margin-bottom: 2rem;
-  }
+  width: 100%;
+  height: 50vh;
+  margin-bottom: 2rem;
+}
 
 /*contact*/
 /*from frozan*/

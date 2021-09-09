@@ -159,7 +159,7 @@ function loadNextQuestion() {
               <p>7 - 14 - Desir </p>
               <p>7 - Noir</p>
           </div>
-          <button class="restart">Restart Quiz</button>
+          <button class="btn btn-secondary bg-color-button2 restart">Restart Quiz</button>
            `;
         return;
     }
