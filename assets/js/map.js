@@ -1,3 +1,7 @@
+//code taken from https://discuss.emberjs.com/t/google-is-not-defined-jshint-error/5762 so that google will not be an undefined variable
+/*global google */
+
+
 // codes taken from frozan and codeinwp and was altered to fit the project
 
 let map;
@@ -86,6 +90,8 @@ function initialiseCityMap() {
  * Creates a map and sets location on the map from MAP_LOCATION.
  * Calls the functions to set markers on the map and change locations with the buttons.
  */
+
+
 function initMap() {
   window.onload = (event) => {
     map = new google.maps.Map(document.getElementById("map"), MAP_LOCATION);
