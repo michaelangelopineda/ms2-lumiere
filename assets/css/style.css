@@ -23,14 +23,19 @@ body {
     background-color: #f5c7ce;
 }
 
+.bg-color-candles {
+    background-color: #f5c7ce57;
+}
+
+.bg-color-stores {
+    background-color: #f5c7ce57;
+}
+
+
+
 .bg-color-footer {
     background-color: #f5c7ce;
 }
-
-.bg-color-contactform {
-    background-color: #dde9e670;
-}
-
 .bg-color-button2 {
     background-color: #f5c7ce;
     border-color: transparent;
@@ -150,11 +155,16 @@ span .navbar-toggler-icon {
     padding-top: 10em;
 }
 
+#about {
+    padding-bottom: 5em;
+}
+
 /*candles*/
 
 .candles-text {
-    padding: 10em 2em 5em;
+    padding: 8em 2em 5em;
 }
+
 
 .scents-effect:hover {
     color: rgba(0, 0, 0, 0.651);
