@@ -16,9 +16,9 @@
 
     <title>Lumière</title>
 
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
+    <script src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
     </script>
-    <script type="text/javascript">
+    <script>
         (function () {
             emailjs.init("user_18pqbEV7FXPaUE6idgxc0");
         })();
@@ -63,9 +63,9 @@
     </header>
 
     <!--hero-image/home-->
-    <section id="home">
-        <div class="container-fluid hero-image"></div>
-    </section>
+
+    <div id="home" class="container-fluid hero-image"></div>
+
 
     <!--about-->
     <section id="about">
@@ -93,7 +93,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-lg-6 candles-img">
-                    <img src="assets/images/candles/candle-s.png" id="about-img" class="about-img"
+                    <img src="assets/images/candles/candle-s.png" id="candlesImg" class="about-img"
                         alt="packaging and candle" />
                 </div>
 
@@ -103,7 +103,13 @@
                         natural soy bean wax for a long, clean burn. Every single item is handmade and hand-poured by
                         skillful craftsman in our studio in Santry and will be a great addition to your daily regimen.
                     </p>
-                    <p>Our candles are available in small black jar with cork lid and exquisit, large, turqoise glass.
+                    <!--code taken from  https://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_lightbulbhttps://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_lightbulb-->
+                    <p>Our candles are available in <b
+                            onclick="document.getElementById('candlesImg').src='assets/images/candles/candle-s.png'">small
+                            black jar with cork lid</b> and <b
+                            onclick="document.getElementById('candlesImg').src='assets/images/candles/candle-l.png'">exquisit,
+                            large,
+                            turqoise glass</b>.
                     </p>
                     <br>
                     <br>
@@ -188,6 +194,7 @@
                         boosts brain power for overall mental clarity and for a quick surge of energy.</p>
                 </div>
             </div>
+        </div>
     </section>
 
     <!--stores-->
