@@ -91,66 +91,63 @@
 
     <section id="candles" class="bg-color-candles">
         <div class="container">
-            <div class="row">
-                <div class="col-md-6 col-lg-6 candles-img">
-                    <img src="assets/images/candles/candle-s.png" id="candlesImg" class="about-img"
-                        alt="packaging and candle" />
+            <div class="row order-1">
+                <div class="col-md-12 col-lg-6 order-md-2 order-lg-1 order-2">
+                    <img src="assets/images/candles/candle-s.png" class="candles-img1" alt="packaging and candle" />
                 </div>
-
-                <div class="col-md-6 col-lg-6 candles-text">
+                <div class="col-md-12 col-lg-6 candles-text order-md-1 order-lg-2 order-1">
                     <h2 class="text-left uppercase gen-heading">Candles</h2>
                     <p>Our candles, infused with organic and carefully selected aromatic oils, are made with 100%
                         natural soy bean wax for a long, clean burn. Every single item is handmade and hand-poured by
                         skillful craftsman in our studio in Santry and will be a great addition to your daily regimen.
                     </p>
-                    <!--code taken from  https://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_lightbulbhttps://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_lightbulb-->
-                    <p>Our candles are available in <b
-                            onclick="document.getElementById('candlesImg').src='assets/images/candles/candle-s.png'">small
-                            black jar with cork lid</b> and <b
-                            onclick="document.getElementById('candlesImg').src='assets/images/candles/candle-l.png'">exquisit,
-                            large,
-                            turqoise glass</b>.
+                    <br>
+                    <p>Our candles are available in <b>small black jar with cork lid</b> and <b>exquisit, large,
+                                turqoise glass</b>.
                     </p>
-                    <br>
-                    <br>
-                    <h4>Don't know which product best suits your need?</h4>
-                    <h3>Take our quiz!</h3>
-                    <div id="quiz">
-                        <div class="quiz-container">
-                            <div class="title">Scent Quiz</div>
-                            <div id="question" class="question"></div>
-                            <label class="option">
-                                <input type="radio" name="option" value="1" />
-                                <span class="option1"></span>
-                            </label>
-                            <label class="option">
-                                <input type="radio" name="option" value="2" />
-                                <span class="option2"></span>
-                            </label>
-                            <label class="option">
-                                <input type="radio" name="option" value="3" />
-                                <span class="option3"></span>
-                            </label>
-                            <label class="option">
-                                <input type="radio" name="option" value="4" />
-                                <span class="option4"></span>
-                            </label>
-                            <!-- Buttons -->
-                            <div class="controls">
-                                <button class="btn previous bg-color-button2 btn-secondary">Previous</button>
-                                <button class="btn bg-color-button2 next btn-secondary">Next</button>
+                </div>
+                <div class="row order-2">
+                    <div id="quiz" class="col-md-12 col-lg-6 order-md-3 candles-quiz candles-text">
+                        <h4>Don't know which product best suits your need?</h4>
+                        <h3>Take our quiz!</h3>
+                        <div>
+                            <div class="quiz-container class="candles-quiz">
+                                <div class="title">Scent Quiz</div>
+                                <div id="question" class="question"></div>
+                                <label class="option">
+                                    <input type="radio" name="option" value="1" />
+                                    <span class="option1"></span>
+                                </label>
+                                <label class="option">
+                                    <input type="radio" name="option" value="2" />
+                                    <span class="option2"></span>
+                                </label>
+                                <label class="option">
+                                    <input type="radio" name="option" value="3" />
+                                    <span class="option3"></span>
+                                </label>
+                                <label class="option">
+                                    <input type="radio" name="option" value="4" />
+                                    <span class="option4"></span>
+                                </label>
+                                <!-- Buttons -->
+                                <div class="controls">
+                                    <button class="btn previous bg-color-button2 btn-secondary">Previous</button>
+                                    <button class="btn bg-color-button2 next btn-secondary">Next</button>
+                                </div>
+                            </div>
+
+                            <div class="result">
+
                             </div>
                         </div>
-
-                        <div class="result">
-
-                        </div>
+                    </div>
+                    <div class="col-md-12 col-lg-6 order-md-4">
+                        <img src="assets/images/candles/candle-l.png" class="candles-img2"
+                            alt="packaging and candle" />
                     </div>
                 </div>
-
-
             </div>
-        </div>
     </section>
 
     <section class="bg-color-scents">

@@ -159,14 +159,39 @@ span .navbar-toggler-icon {
 
 #about {
     padding-bottom: 5em;
+    padding-top: 3em
 }
 
 /*candles*/
 
+#candles {
+    padding-bottom: 4em;
+}
 
+.candles-img1 {
+    position: relative;
+    height: auto;
+    width: 100%;
+    left: 50%;
+    top: 60%;
+    transform: translate(-50%, -50%);
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.candles-img2 {
+    position: relative;
+    height: auto;
+    width: 100%;
+    left: 50%;
+    top: 60%;
+    transform: translate(-50%, -50%);
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
 
 .candles-text {
-    padding: 8em 2em 5em;
+    padding: 7em 2em 3em;
 }
 
 
@@ -297,9 +322,27 @@ footer .btn {
     }
 
     .about-img {
-        margin-top: -2em;
+        margin-top: -20px;
     }
-}
+
+    #about {
+        padding-bottom: 3em;
+    }
+
+    .candles-img1 {
+        margin-top: -35px;
+    }
+
+    .candles-img2 {
+        margin-top: -35px;
+        padding: 2em 1em 2em;
+    }
+    
+    .candles-text {
+        margin-top: -58px;
+    }
+
+}    
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) and (max-width: 767px) {
@@ -317,11 +360,24 @@ footer .btn {
     #about {
         padding-bottom: 3em;
     }
-    
+
     .about-text {
         font-size: 14px;
         padding-top: 6em;
     }
+
+    .candles-text {
+        padding: 3em 2em 4em;
+    }
+
+    .candles-img1 {
+        margin-top: -63px;
+    }
+
+    .candles-img2 {
+        margin-top: -63px;
+    }
+
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
@@ -336,5 +392,13 @@ footer .btn {
     .about-text {
         padding-top: 8em;
         font-size: 18px;
+    }
+
+    #candles {
+        padding-bottom: 3em;
+    }
+
+    candles-img2 {
+        padding-bottom: 2em;
     }
 }
