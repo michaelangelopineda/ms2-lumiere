@@ -91,4 +91,19 @@ The target audience for this site is anyone who is interested in scented candles
 
         Lastly, the sizes of the images were adjusted to ensure balance with the other elements.  
 
-   
+-   ### 3. Wireframes
+
+    #### a. Desktop
+
+    -   [Home](docs/wireframes/lumiere-desktop-home.png)
+    -   [About](docs/wireframes/lumiere-desktop-about.png)
+    -   [Candles](docs/wireframes/lumiere-desktop-candles.png)
+    -   [Stores](docs/wireframes/lumiere-desktop-stores.png)
+    -   [Contact](docs/wireframes/lumiere-desktop-contact.png)
+
+    #### b. Tablet
+
+
+
+    #### c. Mobile
+     
