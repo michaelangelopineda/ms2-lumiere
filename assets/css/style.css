@@ -259,6 +259,12 @@ span .navbar-toggler-icon {
     margin-top: 1rem;
 }
 
+.form2 {
+    padding-top: 10px;
+    margin: 0 auto;
+
+}
+
 /*footer*/
 footer {
     font-size: 30px;
@@ -358,6 +364,35 @@ footer .btn {
         text-align: center;
     }
 
+    .form2 {
+        padding-top: 10px;
+        margin: 0 auto;
+        max-width: 70%;
+    }
+    .socials {
+        margin-left: auto;
+        padding-left: 35px;
+        font-size: 16px;
+    }
+
+    .input-group {
+        display: grid;
+    }
+
+    .input-group>.form-control,
+    .input-group>.form-select {
+        width: auto;
+    }
+
+    textarea,
+    input::placeholder {
+        text-align: center;
+    }
+
+    .contact-text {
+        padding: 0em 1em;
+    }
+
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -365,12 +400,29 @@ footer .btn {
     .navbar-collapse {
         background-color: #ffe4e886;
     }
+
+    .form2 {
+        padding-top: 10px;
+        margin: 0 auto;
+        max-width: 70%;
+    }
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .navbar-collapse {
         background-color: #ffe4e886;
+    }
+
+    .hero-image {
+        width: 90%;
+        height: 100vh;
+        background-repeat: no-repeat;
+        background-position: center center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
     }
 
     #about {
@@ -416,6 +468,17 @@ footer .btn {
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .about-text {
         padding-top: 7em;
+    }
+
+    .hero-image {
+        width: 90%;
+        height: 100vh;
+        background-repeat: no-repeat;
+        background-position: center center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
     }
 }
 
