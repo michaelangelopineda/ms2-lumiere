@@ -117,55 +117,57 @@ The target audience for this site is anyone who is interested in scented candles
     -   [Stores](docs/wireframes/lumiere-mobile-stores.png)
     -   [Contact](docs/wireframes/lumiere-mobile-contact.png)
 
-- ## B. Features
+## B. Features
 
 - ### Across all Pages
 
     -   The site has a responsive design on all devices. 
 
-- #### Header
+        - #### Header
 
-    -   The header is fixed at the top. This is accomplished using bootstrap’s sticky-top class.
-    -   The brand’s name is placed on the top left corner of the page. The name shrinks on mobile device to avoid overcrowding of the area and give a breathing space.
-    -   The navigation bar’s links are visible and turns gray when hovered over to give feedback to user.  On tablet and mobile view, the links will collapse to a toggle button for better user experience. An opaque overlay was added to the collapsed menu to give give distinction to its content against the header and collapses back to a toggle button once user clicked the preferred page.
+            -   The header is fixed at the top. This is accomplished using bootstrap’s sticky-top class.
+            -   The brand’s name is placed on the top left corner of the page. The name shrinks on mobile device to avoid overcrowding of the area and give a breathing space.
+            -   The navigation bar’s links are visible and turns gray when hovered over to give feedback to user.  On tablet and mobile view, the links will collapse to a toggle button for better user experience. An opaque overlay was added to the collapsed menu to give give distinction to its content against the header and collapses back to a toggle button once user clicked the preferred page.
 
-- ### Footer
+        - ### Footer
 
-    -   The footer sits after the content of the last section at the bottom of pages, and includes a simple modal with the user’s email address and a subscribe button for newsletter for users to get latest updates about the store
-    -   It also contains icons for the brand’s social media links for users to see their social media following. Lumiere's social media links are not yet linked but the icons open to a new window when clicked. 
-    -   The footer will collapse into two sections in mobile view- modal atop social's link and will sit next to each other on tablet view.
+            -   The footer sits after the content of the last section at the bottom of pages, and includes a simple modal with the user’s email address and a subscribe button for newsletter for users to get latest updates about the store
+            -   It also contains icons for the brand’s social media links for users to see their social media following. Lumiere's social media links are not yet linked but the icons open to a new window when clicked. 
+            -   The footer will collapse into two sections in mobile view- modal atop social's link and will sit next to each other on tablet view.
 
-- ### Home Page
+        - ### Home Page
 
-    -   The Home page contains hero image which is responsive to all devices.
+            -   The Home page contains hero image which is responsive to all devices.
 
+        - ### About Page
 
-- ### About Page
+            -   This page displays an image of the brand’s packaging and details about the brand
+            -   On mobile view, the image will sit atop the text and will act as the new hero image.
 
-    -   This page displays an image of the brand’s packaging and details about the brand
-    -   On mobile view, the image will sit atop the text and will act as the new hero image.
+        - ### Candles Page
 
-- ### Candles Page
+            -   The Candles Page is divided into two parts: candles and scent.
+            -   The Candles Section contain image of the products offered (small an large container), details about the product and scent quiz.
+            -   The scent quiz is an interactive quiz which can help customers determine what kind of product they potentially need.
+            -   On mobile view, the text and the quiz will sit at the bottom of the image.
+            -   The Scents Section basically contain the products offered by the brand with name, image an description of the product.
+            -   The default image is the scent in a small container, and when hovered over, it will change to a preview of the large container.
+            -   On mobile view, the products will be sitting atop each other in one column, in comparison to two-row presentation on desktop and tablet view.
 
-    -   The Candles Page is divided into two parts: candles and scent.
-    -   The Candles Section contain image of the products offered (small an large container), details about the product and scent quiz.
-    -   The scent quiz is an interactive quiz which can help customers determine what kind of product they potentially need.
-    -   On mobile view, the text and the quiz will sit at the bottom of the image.
-    -   The Scents Section basically contain the products offered by the brand with name, image an description of the product.
-    -   The default image is the scent in a small container, and when hovered over, it will change to a preview of the large container.
-    -   On mobile view, the products will be sitting atop each other in one column, in comparison to two-row presentation on desktop and tablet view.
+        - ### Stores Page
 
-- ### Stores Page
+            -   The Stores Page contains the locations, map and opening hours of the stores.
+            -   The map is an interactive one wherein when the customer clicks on the location atop the map, the map will respond to it and show the place with a marker on it. Upon clicking the marker, the exact address of the place will be shown to the user. The functionality of same was achieve using Google map API and Javascript.
 
-    -   The Stores Page contains the locations, map and opening hours of the stores.
-    -   The map is an interactive one wherein when the customer clicks on the location atop the map, the map will respond to it and show the place with a marker on it. Upon clicking the marker, the exact address of the place will be shown to the user. The functionality of same was achieve using Google map API and Javascript.
+        - ### Contact Page
 
+            -   This page contains a form for inquiries so that users can get in touch with with the bran should they have any question. It was designed simple and very straightforward.
+            -   The functionality of the form was achieve using EmailJs and Javascript.
+            -   There is a modal feedback response once the message has been sent.
 
+- ## C. Future Features
 
-- ### Contact Page
-
-    -   This page contains a form for inquiries so that users can get in touch with with the bran should they have any question. It was designed simple and very straightforward.
-    -   The functionality of the form was achieve using EmailJs and Javascript.
-    -   There is a modal feedback response once the message has been sent.
-
+    -   I would like to add fully functional online shopping function to site.   
+    -   I would like my “Subscribe to my Newsletter”  fully functional as it requires Backend Development.   
+    -   I would like amend the design and layout depending on the reception and feedback of users.   
 
