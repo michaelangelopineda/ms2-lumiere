@@ -219,6 +219,8 @@ span .navbar-toggler-icon {
     margin-bottom: 2rem;
 }
 
+
+
 /*contact*/
 /*from frozan*/
 #modal-background {
@@ -327,6 +329,7 @@ footer .btn {
 
     #about {
         padding-bottom: 3em;
+        padding-top: 0em;
     }
 
     .candles-img1 {
@@ -337,12 +340,25 @@ footer .btn {
         margin-top: -35px;
         padding: 2em 1em 2em;
     }
-    
+
     .candles-text {
         margin-top: -58px;
     }
 
-}    
+    .scents-img {
+        margin-bottom: -5em;
+        padding-bottom: 8em;
+    }
+
+    .scents-text {
+        padding-bottom: 1em;
+    }
+
+    .opening-hours-text {
+        text-align: center;
+    }
+
+}
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) and (max-width: 767px) {
@@ -377,6 +393,22 @@ footer .btn {
     .candles-img2 {
         margin-top: -63px;
     }
+
+    .scents-img {
+        margin-bottom: -5em;
+        padding-bottom: 7em;
+    }
+
+    .scents-text {
+        padding-bottom: 1em;
+    }
+    .opening-hours-text {
+        text-align: center;
+        padding-left: 10em;
+    }
+
+
+    
 
 }
 
