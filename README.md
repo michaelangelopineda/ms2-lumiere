@@ -51,4 +51,44 @@ The target audience for this site is anyone who is interested in scented candles
 
     After identifying all the user stories, they were organized according to epics. Please [see attached file](docs/lumiere-epic-user-story.docx).    
 
-    
+ -   ### 2. Design and Typography
+
+    Overall, the design is simple and clean. The design was based from the brand’s goal and purpose as well as the site owner’s vision of the site.
+
+    -   #### a. Colour Scheme
+
+        As per the site owner’s vision of the site, the site should embody ease, relaxation and mindfulness but he doesn’t want conventional colours of greens and blues. Because of this, we opted to use shades pastel pink as a base colour for the site.
+
+        According to [colorpsychology.org]( https://www.colorpsychology.org/pink/),  pink is a colour that has a calming effect on people. It is not aggressive like red, but rather suggests safety and vulnerability. It is linked to innocence, hope and optimism. It also represents nurture and kindness. Also, according to [wow1day.com]( https://www.wow1day.com/blog/paint-colors/9-peaceful-paint-colors-help-you-relax/), a soft pastel pink can definitely bring an element of peace and calm to a space.  
+
+        Initially, I used [schemecolor.com]( https://www.schemecolor.com/aromatherapy.php) to find complementary colours for pastel pink that would maintain overall aesthetic and feel of the site. The colours are listed below:  
+
+        - #FDFDFA- RGB: (253, 253, 250)- light pastel pink  
+        - #FDF1ED- RGB: (253, 241, 237)- medium pastel pink  
+        - #FDE2E6- RGB: (253, 226, 230)- darker pastel pink  
+
+        However, we opted to adjust the colours to complement the overall layout and feel of the site and used the following colours instead: 
+
+        - #f5c7ce- rgb(245, 199, 206)- solid pastel pink
+        - #f5c7ce57- rgb(245, 199, 206)- slightly transparent solid pastel pink
+        - #fde2e6- rgb(253, 226, 230)- light pastel pink
+
+        On the other hand, black was used for font colour, which provide contrast to the background. It is simple, crisp and very straight forward.
+                
+    -   #### b. Typography
+  
+        The fonts used are [Poppins](https://fonts.google.com/specimen/Poppins?category=Sans+Serif&preview.text=MY%20MUSIC%20l%20MY%20VIDEO%20l%20MY%20PHOTOS&preview.text_type=custom&preview.size=29&sort=popularity&preview.layout=row#standard-styles) for headings and [Roboto](https://fonts.google.com/specimen/Roboto?category=Sans+Serif&preview.text=MY%20MUSIC%20l%20MY%20VIDEO%20l%20MY%20PHOTOS&preview.text_type=custom&preview.size=29&sort=popularity&preview.layout=row&query=robot) for all written content with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly.
+
+        Poppins and Roboto are clean fonts used frequently in programming, so it is both attractive and appropriate.
+
+    -   #### c. Imagery
+        
+        The images used in the site are mainly provided by Lumiere. 
+        
+        The background-image, which is a pastel pink sea of cloud, was taken from [Pexels]( https://www.pexels.com/photo/pink-clouds-1831234/) and gives a simple and fresh look together with the adjusted background-colors of each sections. 
+        
+        The hero-image and product images were provided by the brand and was designed to pique the interest of the viewers and catch their attention with its very simple yet effective design of contrast against the subtle color of pastel pink.
+
+        Lastly, the sizes of the images were adjusted to ensure balance with the other elements.
+
+   
