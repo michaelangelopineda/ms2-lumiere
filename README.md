@@ -103,7 +103,16 @@ The target audience for this site is anyone who is interested in scented candles
 
     #### b. Tablet
 
-
+    -   [Home](docs/wireframes/lumiere-tablet-home.png)
+    -   [About](docs/wireframes/lumiere-tablet-about.png)
+    -   [Candles](docs/wireframes/lumiere-tablet-candles.png)
+    -   [Stores](docs/wireframes/lumiere-tablet-stores.png)
+    -   [Contact](docs/wireframes/lumiere-tablet-contact.png)
 
     #### c. Mobile
      
+    -   [Home](docs/wireframes/lumiere-mobile-home.png)
+    -   [About](docs/wireframes/lumiere-mobile-about.png)
+    -   [Candles](docs/wireframes/lumiere-mobile-candles.png)
+    -   [Stores](docs/wireframes/lumiere-mobile-stores.png)
+    -   [Contact](docs/wireframes/lumiere-mobile-contact.png)
