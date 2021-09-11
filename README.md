@@ -186,11 +186,11 @@ The target audience for this site is anyone who is interested in scented candles
         b. [Google Fonts:](https://fonts.google.com/)  
                 - Google fonts were used to import the **Poppins** and **Roboto** font into the style.css file which is used on all pages throughout the project.  
         c. [Font Awesome:](https://fontawesome.com/)  
-                - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+                - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.  
         d. [jQuery:](https://jquery.com/)  
                 - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.  
         e. [Git:](https://git-scm.com/)  
-                - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+                - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.  
         f. [GitHub:](https://github.com/)  
                 - GitHub is used to store the projects code after being pushed from Git.  
         g. [Adobe Spark:](https://spark.adobe.com/sp/design/post/urn:aaid:sc:AP:fdef19ec-0d82-4ef5-9522-01c05cf49f31?_branch_match_id=922094833261166892)  
@@ -226,7 +226,7 @@ The target audience for this site is anyone who is interested in scented candles
 
     1. Log into [GitHub](https://github.com/).  
     1. Click on the account avatar at the top right corner and click **Your repositories** from the menu.  
-    1. From the list of repositories, select [milestones1-singer-ritajessa](https://github.com/michaelangelopineda/milestones1-singer-ritajessa).  
+    1. From the list of repositories, select [ms2-lumiere](https://github.com/michaelangelopineda/ms2-lumiere).  
     1. From the menu bar at the top of the page, click **Settings**.  
     1. In the menu bar on the left side of the screen, click **Page**.  
     1. In the **Source** section, click the dropdown menu **None** and select **Master Branch**  and click **Save**.  
