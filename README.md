@@ -198,3 +198,58 @@ The target audience for this site is anyone who is interested in scented candles
         h. [Balsamiq:](https://balsamiq.com/)  
                 - Balsamiq was used to create the [wireframes](https://github.com/michaelangelopineda/milestones1-singer-ritajessa/tree/master/docs/wireframes) during the design process.  
 
+- ## D. Testing
+
+    Pls see [TESTING.md](TESTING.md) for further details and documentation.
+
+- ## E. Deployment
+
+    ### Gitpod Page
+    - The Project was edited in Gitpod. You may do so by:  
+
+    1. Install [**Gitpod browser extension**](https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki).
+    1. Once installed, navigate to your Github Page and choose the repository you wish to edit then click it.
+    1. On that repository, click the green **Gitpod** button.
+    1. After clicking, a new page will be opened and it will be directed to you Gitpod workspace.  
+    1. Write/ edit your codes and files in the workspace.
+    1. Save the code.
+    1. Check your actual output by typing `python3 -m http.server` in the terminal.
+    1. A pop up window will show and click on **Open Browser** and a new window will open and your output will be displayed.
+    1. When happy enough with the code, go back to the terminal type `git status` and check all the files that you want to save and push to you Github repository.
+    1. Type `git add` + **filename** of the  files you wish to push.
+    1. Then type `git commit -m "Your-Commit-Message"`
+    1. Lastly, you can push your changes to Github by typin in `git push`
+
+    ### Github Pages
+
+    -    The project was deployed in Github following these step:
+
+    1. Log into [GitHub](https://github.com/).  
+    1. Click on the account avatar at the top right corner and click **Your repositories** from the menu.  
+    1. From the list of repositories, select [milestones1-singer-ritajessa](https://github.com/michaelangelopineda/milestones1-singer-ritajessa).  
+    1. From the menu bar at the top of the page, click **Settings**.  
+    1. In the menu bar on the left side of the screen, click **Page**.  
+    1. In the **Source** section, click the dropdown menu **None** and select **Master Branch**  and click **Save**.  
+    1. Then a **link** of the deployed project above the **Source** section will appear.  
+    1. Click the **link** and you will be directed to deployed page.  
+
+    ### Forking the Github Repository
+
+    -    By forking, we can make a copy of the repository and make changes without affecting the original project. This can be done by:  
+
+    1. Log in to GitHub and locate the GitHub Repository.  
+    1. CLick on the fork button under your avatar image after locating the repository you wish to copy.  
+    1. You should now have a duplicate of the original repository in your GitHub list of repositories.  
+
+    ### Cloning the Github Repository
+
+    -    You can clone your repository to create a local copy on your computer and sync between the two locations as per [Github documentation](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository). You can do this by:  
+
+    1. Log in to GitHub and locate the GitHub Repository
+    1. Under the repository name, click the **Code** then copy **SSH address**
+    1. Open Gitbash
+    1. Change the current working directory to the location where you want the cloned directory.
+    1. Type `git clone`, and then *paste* the URL or the **SSH address** you copied earlier.
+    1. Press **Enter** to create your local clone.
+
+    Please click [link in Github](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) for more information.
