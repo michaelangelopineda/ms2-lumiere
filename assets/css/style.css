@@ -293,7 +293,7 @@ footer .btn {
     }
 
     .about-text {
-        padding: 7em;
+        padding: 3em 1em 3em;
     }
 
     .about-img {
@@ -334,6 +334,7 @@ footer .btn {
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
     .about-text {
-        padding-top: 10em;
+        padding-top: 8em;
+        font-size: 18px;
     }
 }
