@@ -171,3 +171,30 @@ The target audience for this site is anyone who is interested in scented candles
     -   I would like my “Subscribe to my Newsletter”  fully functional as it requires Backend Development.   
     -   I would like amend the design and layout depending on the reception and feedback of users.   
 
+- ## D. Technologies Used
+
+    - ### 1. Languages Used
+
+        -   [HTML5](https://en.wikipedia.org/wiki/HTML5)  
+        -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)  
+        -   [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+
+    - ### 2. Frameworks, Libraries & Programs Used
+
+        a. [Bootstrap:](https://getbootstrap.com/)  
+                - Bootstrap was used to assist with the responsiveness and styling of the website.  
+        b. [Google Fonts:](https://fonts.google.com/)  
+                - Google fonts were used to import the **Poppins** and **Roboto** font into the style.css file which is used on all pages throughout the project.  
+        c. [Font Awesome:](https://fontawesome.com/)  
+                - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+        d. [jQuery:](https://jquery.com/)  
+                - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.  
+        e. [Git:](https://git-scm.com/)  
+                - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+        f. [GitHub:](https://github.com/)  
+                - GitHub is used to store the projects code after being pushed from Git.  
+        g. [Adobe Spark:](https://spark.adobe.com/sp/design/post/urn:aaid:sc:AP:fdef19ec-0d82-4ef5-9522-01c05cf49f31?_branch_match_id=922094833261166892)  
+                - Photoshop was used to create the logo, resizing images and editing photos for the website.  
+        h. [Balsamiq:](https://balsamiq.com/)  
+                - Balsamiq was used to create the [wireframes](https://github.com/michaelangelopineda/milestones1-singer-ritajessa/tree/master/docs/wireframes) during the design process.  
+
