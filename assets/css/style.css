@@ -382,6 +382,12 @@ footer .btn {
         padding: 0em 1em;
     }
 
+    #modal {
+        height: 30vh;
+        width: 80vw;
+        padding-top: 1rem;
+    }
+
 }
 
 @media only screen and (min-width: 600px) and (max-width: 767px) {
@@ -393,6 +399,10 @@ footer .btn {
         padding-top: 10px;
         margin: 0 auto;
         max-width: 70%;
+    }
+
+    #modal {
+        padding-top: 2rem;
     }
 }
 
