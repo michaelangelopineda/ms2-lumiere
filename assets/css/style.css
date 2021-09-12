@@ -31,8 +31,6 @@ body {
     background-color: #f5c7ce57;
 }
 
-
-
 .bg-color-footer {
     background-color: #f5c7ce;
 }
@@ -163,7 +161,6 @@ span .navbar-toggler-icon {
 }
 
 /*candles*/
-
 #candles {
     padding-bottom: 4em;
 }
@@ -194,11 +191,9 @@ span .navbar-toggler-icon {
     padding: 7em 2em 3em;
 }
 
-
 .scents-effect:hover {
     color: rgba(0, 0, 0, 0.651);
 }
-
 
 .scents-img {
     position: relative;
@@ -219,10 +214,8 @@ span .navbar-toggler-icon {
     margin-bottom: 2rem;
 }
 
-
-
 /*contact*/
-/*from frozan*/
+/*modal response code taken from Frozan*/
 #modal-background {
     position: fixed;
     left: 0;
@@ -238,7 +231,7 @@ span .navbar-toggler-icon {
     position: fixed;
     height: 40vh;
     width: 90vw;
-    background-color: #faf3dd;
+    background-color:#f5c7ce ;
     border-radius: 10px;
     z-index: 2;
     text-align: center;
@@ -251,9 +244,9 @@ span .navbar-toggler-icon {
 #modal-button {
     width: 150px;
     height: 50px;
-    background-color: #aed9e0;
+    background-color: #f5c7ce57;
     color: #5e6472;
-    font-family: "Open-sans", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 600;
     border: 2px;
     margin-top: 1rem;
@@ -304,7 +297,7 @@ footer .btn {
     text-align: center
 }
 
-/* Extra small devices (phones, 600px and down) */
+/*media queries*/
 @media only screen and (min-width: 320px) and (max-width: 559px) {
     #namelogo {
         font-size: 1.3em;
@@ -395,7 +388,6 @@ footer .btn {
 
 }
 
-/* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) and (max-width: 767px) {
     .navbar-collapse {
         background-color: #ffe4e886;
@@ -408,7 +400,6 @@ footer .btn {
     }
 }
 
-/* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .navbar-collapse {
         background-color: #ffe4e886;
@@ -464,7 +455,6 @@ footer .btn {
 
 }
 
-/* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .about-text {
         padding-top: 7em;
@@ -482,7 +472,7 @@ footer .btn {
     }
 }
 
-/* Extra large devices (large laptops and desktops, 1200px and up) */
+
 @media only screen and (min-width: 1200px) {
     .about-text {
         padding-top: 8em;
