@@ -22,9 +22,9 @@
 - [map.js](docs/jshint-valiation-img/jshintval-map.png)
 - [email.js](docs/jshint-valiation-img/jshintval-email.png)
 
-## A. Testing User Stories from User Experience Section
+## B. Testing User Stories from User Experience Section
 
-   -   ### a. Artist's Fan Visitor Goals  
+-   ### a. Artist's Fan Visitor Goals  
 
 - **1. As a user (scented candle aficionado), I want to navigate the site easily so that I can find the content I am looking for.**  
         - Upon entering the site, the user will immediately be greeted with a typical site layout wherein the name of the site is displayed on the left side and the navigation links is at the right on which they can click to go to the desire page.  
@@ -64,5 +64,35 @@
 
 - **11. As a user (scented candle aficionado), I want to be notified regarding request on the website So that I would know if I ‘m getting a response or not with my transactions and with what I am doing.**    
         -Feedback when using the contact form has been a feature of he site to give customer response regaring if the message has been sent.
-
+  
 -   ### b. Potential Fan Visitor Goals  
+  
+- **1. As a potential user (non- aficionado), I want to view the site simple so that I can browse with ease.**  
+        - Upon entering the site, the user will immediately be greeted with a typical site layout wherein the name of the site is displayed on the left side and the navigation links is at the right on which they can click to go to the desire page.  
+        -All sections of the page are clearly separated and contains header to determine what is the content of that section.
+        The footer sits at the bottom containing the social links and Subscription to Newsletter form.  
+
+- **2. As a potential user (non- aficionado), I want to be able to contact someone if I need be so that my questions can be answered.**    
+        -There is Contact form that the the customer can fill in with his/her information should they have a message or query to brand.   
+
+- **3. As a potential user (non- aficionado), I want to know which product best suit my need so it will be easy for me to know what item to buy.** 
+        - In the candles section, there is an interactive quiz game on which upon completion of answering the questions, it will return a recommendation on what product best suits your needs.
+
+
+-   ### c. Site Owner Goals
+
+- **1. As the site owner, I want to create a website so that I can establish an online presence.**  
+        - The website was created containing images of the products offered by the company.
+        - It also contains a Subscription Form to a Newsletter and icons linked to the brand's social media accounts.  
+
+- **2. As the site owner, I want to share the goals and objectives of the company so that people can know what kind of company we have.**   
+        - There is a dedicated About Page regaring the brand's goals and objectives in setting up this business.
+
+- **3. As the site owner, I want clients to be to contact us so that we could provide better customer service and profit can increase.**  
+        - There is a dedicate Contact form on which customers can get in touch with the brand.
+
+- **4. As the site owner, I want the site to embody ease, relaxation and mindfulness while browsing and provide visual pleasure to the eyes so that clients will be encouraged to come back and visit the site again.**   
+        - The overall layout, design and feel of the site is to embody ease, relaxation and mindfulness. The design, colours and typography used were chosen to achieve this.  
+
+- **5. As the site owner, I want to increase traffic in the site so that we can increase profitability.**    
+        - The layout was designed according to user stories from scented-candles aficionado an potential users. It provides a simple and intuitive website that users can use with ease and confidence. By doing so, the website creator hopes to increase the traffic in the site thereby increasing the number of users revisiting the site. 
