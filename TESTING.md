@@ -128,3 +128,21 @@ Lighthouse Testing before my second mentor session was done.
 
 - [`'template literal syntax is only available in ES6 ('use esversion: 6')'`](docs/issues-img/jshint-error-issue1.png) and [`'arrow function syntax (=>)' is only available in ES6 (use 'esversion: 6').`](docs/issues-img/jshint-error-issue2.png) warning in Jshint.  *Partially fixed*
         -I created .jshintrc in the root directory of the project and coded `{"esversion": 6}` but the warnings did not disappear. After consulting with Tutor support, I was advised that i can just leave it as it is.
+
+## D. Supported Browsers
+
+- The Website was tested on Google Chrome, Microsoft Edge and Mozilla Firefox browsers. 
+
+## E. Testing for Supported Devices
+
+- The websites each page was viewed and tested in Chrome Dev tool using different breakpoints emmanating the width and size of different desktop, laptop, and mobile devices. 
+
+- The site was tested for Galaxy Notes II, Galaxy S III, Moto G4, Galaxy S5, Pixel 2, Pixel 2XL, iPhone6/7/8, iPhone6/7/8 Plus, iPad, iPad Pro, and Surface Duo.  
+
+- Please see attached file for the [table result]().  
+
+- A large amount of testing was done to ensure that all pages were linking correctly.
+
+## F. Further Testing
+
+- Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
