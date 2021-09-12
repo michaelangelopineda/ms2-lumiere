@@ -96,3 +96,12 @@
 
 - **5. As the site owner, I want to increase traffic in the site so that we can increase profitability.**    
         - The layout was designed according to user stories from scented-candles aficionado an potential users. It provides a simple and intuitive website that users can use with ease and confidence. By doing so, the website creator hopes to increase the traffic in the site thereby increasing the number of users revisiting the site. 
+
+## B. Chrome dev tool  
+
+## Lighthouse    
+  
+Lighthouse Testing before my second mentor session was done.  
+      
+-### [**Desktop**](docs/lighthouse-testing-img/lighthouse-desktop.png)  
+-### [**Mobile**](docs/lighthouse-testing-img/lighthouse-mobile.png) 
