@@ -97,11 +97,34 @@
 - **5. As the site owner, I want to increase traffic in the site so that we can increase profitability.**    
         - The layout was designed according to user stories from scented-candles aficionado an potential users. It provides a simple and intuitive website that users can use with ease and confidence. By doing so, the website creator hopes to increase the traffic in the site thereby increasing the number of users revisiting the site. 
 
-## B. Chrome dev tool  
+## C. Chrome dev tool  
 
-## Lighthouse    
+### Lighthouse    
   
 Lighthouse Testing before my second mentor session was done.  
       
--### [**Desktop**](docs/lighthouse-testing-img/lighthouse-desktop.png)  
--### [**Mobile**](docs/lighthouse-testing-img/lighthouse-mobile.png) 
+-[**Desktop**](docs/lighthouse-testing-img/lighthouse-desktop.png)  
+-[**Mobile**](docs/lighthouse-testing-img/lighthouse-mobile.png) 
+
+## C. Fixed Bugs  
+
+- [Layout bug in modal response](docs/issues-img/modal-layout-issue.png) for the contact form, overlapping close button, text and container in mobile. *Fixed*   
+        -This was fixed using media query in mobile view by adjusting `#modal` declaration to same.
+
+- There was an order issue with the html content of the Candles Sections. *Fixed*  
+        -This was fixed using Bootstrap's `order` class added on different `div` elements in the Candles Sections.Tinypng for compressing image.
+
+- Map was not loading. *Fixed* 
+        -This was addressed by ensuring that API key restriction is correct in the [Google Maps platform](https://console.cloud.google.com/google/maps-apis/credentials?_ga=2.99415582.165884211.1631186928-404668751.1619166239&project=my-project-resume-322509).
+
+- Quiz result not showing. *Fixed* 
+        -`div` elements in the Quiz section were re-arranged in the index.html file.  
+
+- Layout bug in About section, overlapping elements in different devices. *Fixed*   
+        -This was fixed using `@media queries` and padding ajustments.  
+
+- Google/ EmailJs as undefined variable in Jshint. *Fixed*   
+        -Added `/*global google*/` and `/*global emailjs*/` on line1 in their respective JavaScript files.
+
+- [`'template literal syntax is only available in ES6 ('use esversion: 6')'`](docs/issues-img/jshint-error-issue1.png) and [`'arrow function syntax (=>)' is only available in ES6 (use 'esversion: 6').`](docs/issues-img/jshint-error-issue2.png) warning in Jshint.  *Partially fixed*
+        -I created .jshintrc in the root directory of the project and coded `{"esversion": 6}` but the warnings did not disappear. After consulting with Tutor support, I was advised that i can just leave it as it is.
