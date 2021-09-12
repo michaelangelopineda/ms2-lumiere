@@ -4,7 +4,7 @@
 
 ### HTML/CSS Essentials - User Centric, Interactive Front-End Website
 
-[View the live project here.](#)
+[View the live project here.](https://michaelangelopineda.github.io/ms2-lumiere/)
 
 ## Purpose
 
@@ -14,7 +14,7 @@ The main goal of this site is primarily to bring awareness to scented candles af
 
 The target audience for this site is anyone who is interested in scented candles regardless of age, sex or background, or essentially anyone who loves candles in general.
 
-<h2 align="center"><img src="#"></h2>
+<h2 align="center"><img src="docs/mock-up-img/mock-up-img.png"></h2>
 
 ## A. User Experience (UX)  
 
