@@ -253,3 +253,39 @@ The target audience for this site is anyone who is interested in scented candles
     1. Press **Enter** to create your local clone.
 
     Please click [link in Github](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) for more information.
+
+- ## G. Credits
+
+### Code
+- The background image code came from this post in [stackoverflow](https://stackoverflow.com/questions/61450202/div-background-image-isnt-showing).  
+- The text shadow code was sourced form [css-tricks](https://css-tricks.com/almanac/properties/t/text-shadow/ for text shadow) so as the the [pseudo class code](https://css-tricks.com/remember-selectors-with-love-and-hate/) for the navlinks and the [object-fit and object-position code](https://css-tricks.com/on-object-fit-and-object-position) for proper aligntment of a photo.  
+- The box shadow code and `<input type="tel">` were from [W3schools](https://www.w3schools.com/css/css3_shadows_box.asp).  
+- The text-area place holder code was from [Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/::placeholder).
+- Responsive hero-image https://stackoverflow.com/questions/58413437/what-is-the-best-solution-for-making-a-responsive-hero-image
+- Media query breakpoints https://www.freecodecamp.org/news/css-media-queries-breakpoints-media-types-standard-resolutions-and-more/  
+- script js to change image when hovered over js //code taken from codepen https://codepen.io/iacus/pen/zzPzvp
+- scent quiz js code taken from code taken from https://codepen.io/edubz99/pen/PeRjNb?editors=1010
+- map js code codes taken from frozan and codeinwp and was altered to fit the project
+-email js code from Code Institute lesson on emailJS and Frozan
+
+
+### References
+
+- I used the following milestones project as reference for mine.  
+
+1. Maria Lundgren's [Frozan](https://github.com/MariaLundgren/frozan/tree/master/assets)   
+
+
+- I also utilised Code Institutes's [Sample README](https://github.com/Code-Institute-Solutions/SampleREADME), [ReadMe template](https://github.com/Code-Institute-Solutions/readme-template), and videos and [Github's Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
+
+### Media
+
+- All media contents are from Lumiere.
+
+### Acknowledgement
+
+- My Mentor Rohit for continuous helpful feedback.
+
+- Tutor support and Student Care at Code Institute for their support.
+
+- Lumiere for entrusting me this website.
