@@ -1,4 +1,7 @@
-//code taken from codepen https://codepen.io/iacus/pen/zzPzvp
+/**code taken from codepen https://codepen.io/iacus/pen/zzPzvp
+*to change image when hovered over
+*/
+
 $(function(){
     $("#noir-img").on({
      mouseenter: function(){

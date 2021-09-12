@@ -1,4 +1,10 @@
-// from Code Institute lesson on emailJS and Frozan website
+/*
+*code taken from https://discuss.emberjs.com/t/google-is-not-defined-jshint-error/5762
+* so that emailjs will not be an undefined variable during jshint validation
+*/
+/*global emailjs*/
+
+// codes taken from Code Institute lesson on emailJS and Frozan
 function sendMail(contactForm) {
     emailjs.send("service_xgft8wg", "lumiere", {
             "from_name": contactForm.name.value,
