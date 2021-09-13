@@ -298,8 +298,11 @@ footer .btn {
 }
 
 .error-container {
-    padding-bottom: 5em;
+    padding-bottom: 2em;
     text-align: center;
+    padding-left: 2em;
+    padding-right: 2em;
+    margin-bottom: 2em;
 }
 
 /*media queries*/
@@ -402,6 +405,18 @@ footer .btn {
         height: 30vh;
         width: 80vw;
         padding-top: 1rem;
+    }
+
+    .error-container {
+        padding-bottom: 5em;
+        text-align: center;
+        padding-left: 2em;
+        padding-right: 2em;
+        padding-top: 2rem;
+    }
+
+    .error-text {
+        font-size: smaller;
     }
 
 }
