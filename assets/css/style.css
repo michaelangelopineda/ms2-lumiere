@@ -289,6 +289,14 @@ footer .btn {
     text-align: center
 }
 
+/*404 error*/
+.error-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 /*media queries*/
 @media only screen and (min-width: 320px) and (max-width: 559px) {
     #namelogo {
