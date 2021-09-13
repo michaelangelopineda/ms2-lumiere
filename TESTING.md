@@ -189,7 +189,7 @@ Lighthouse Testing before my second mentor session was done.
 -[**Desktop**](docs/lighthouse-testing-img/lighthouse-desktop.png)  
 -[**Mobile**](docs/lighthouse-testing-img/lighthouse-mobile.png) 
 
-## C. Fixed Bugs  
+## C. Issues/ Bugs  
 
 - [Layout bug in modal response](docs/issues-img/modal-layout-issue.png) for the contact form, overlapping close button, text and container in mobile. *Fixed*   
         -This was fixed using media query in mobile view by adjusting `#modal` declaration to same.
@@ -209,9 +209,11 @@ Lighthouse Testing before my second mentor session was done.
 - Google/ EmailJs as undefined variable in Jshint. *Fixed*   
         -Added `/*global google*/` and `/*global emailjs*/` on line1 in their respective JavaScript files.
 
-- [`'template literal syntax is only available in ES6 ('use esversion: 6')'`](docs/issues-img/jshint-error-issue1.png) and [`'arrow function syntax (=>)' is only available in ES6 (use 'esversion: 6').`](docs/issues-img/jshint-error-issue2.png) warning in Jshint.  *Partially fixed*
-        -I created .jshintrc in the root directory of the project and coded `{"esversion": 6}` but the warnings did not disappear. After consulting with Tutor support, I was advised that i can just leave it as it is.
+- [`'template literal syntax is only available in ES6 ('use esversion: 6')'`](docs/issues-img/jshint-error-issue1.png) and [`'arrow function syntax (=>)' is only available in ES6 (use 'esversion: 6').`](docs/issues-img/jshint-error-issue2.png) warning in Jshint.  *Partially fixed*  
+        -I created .jshintrc in the root directory of the project and coded `{"esversion": 6}` but the warnings did not disappear. After consulting with Tutor support, I was advised that i can just leave it as it is.  
 
+- The modal response for the contact form takes a few seconds before giving feedback but working. *Not fixed*  
+  
 ## D. Supported Browsers
 
 - The Website was tested on Google Chrome, Microsoft Edge and Mozilla Firefox browsers. 
