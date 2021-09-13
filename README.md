@@ -278,7 +278,8 @@ The target audience for this site is anyone who is interested in scented candles
 
 - I used the following milestones project as reference for mine.  
 
-1. Maria Lundgren's [Frozan](https://github.com/MariaLundgren/frozan/tree/master/assets)   
+1. Maria Lundgren's [Frozan](https://github.com/MariaLundgren/frozan/tree/master/assets)
+2. My previous MS1 Project [Rita Jessa](https://github.com/michaelangelopineda/milestones1-singer-ritajessa)   
 
 
 - I also utilised Code Institutes's [Sample README](https://github.com/Code-Institute-Solutions/SampleREADME), [ReadMe template](https://github.com/Code-Institute-Solutions/readme-template), and videos and [Github's Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
