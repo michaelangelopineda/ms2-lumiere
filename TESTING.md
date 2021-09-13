@@ -73,6 +73,12 @@
 - Mobile  
 ![How to contact the company and receive feedback](docs/user-story-testing-img/contact-mobile.png) 
 
+6. An email will be sent to the designated Email assigned in EmailJS.  
+
+- Sample Email Sent to the assigned email address    
+
+![What the sample message sent woul look like](docs/user-story-testing-img/contact-email-sent.png)   
+
 - **5. As a user (scented candle aficionado), I want to know the opening hours So that I will know what time I can visit and buy candles.**  
         -There is a dedicated section in the Stores Page regarding the opening hours of the shops.
 
@@ -115,7 +121,16 @@
 ![How to subscribe to newletter](docs/user-story-testing-img/newsletter-desktop.png)  
 
 - Mobile  
-![How to subscribe to newletter](docs/user-story-testing-img/newsletter-mobile.png) 
+![How to subscribe to newletter](docs/user-story-testing-img/newsletter-mobile.png)
+
+4. Currently, this is non functional but you can receive a 404 Error upon subscribing.
+5. Click the Return button to go back to the Home Page
+
+- Desktop  
+![What 404 will look like and what to do with it](docs/user-story-testing-img/404-desktop.png)  
+
+- Mobile  
+![What 404 will look like and what to do with it](docs/user-story-testing-img/404-mobile.png)
 
 - **9. As a user (scented candle aficionado), I want to know the socials of the company So that I can review comments and feedback from previous customers.**    
         - The footer section, which sits at the bottom of every page, contains icons to the brand’s social media accounts.  
@@ -134,7 +149,7 @@
         -Currently, this is not a feature added. Customers may send a message and discuss payment and delivery thru the form.
 
 - **11. As a user (scented candle aficionado), I want to be notified regarding request on the website So that I would know if I ‘m getting a response or not with my transactions and with what I am doing.**    
-        -Feedback when using the contact form is a feature of the site to give customer response regaring if the message has been sent.
+        -Feedback when using the contact form is a feature of the site to give customer response regaring if the message has been sent as well as a 404 error message if something went wrong or a page being accessed or a transaction is invalid.
   
 -   ### b. Potential Fan Visitor Goals  
   

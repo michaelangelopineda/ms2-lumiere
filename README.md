@@ -164,6 +164,11 @@ The target audience for this site is anyone who is interested in scented candles
             -   This page contains a form for inquiries so that users can get in touch with with the bran should they have any question. It was designed simple and very straightforward.
             -   The functionality of the form was achieve using EmailJs and Javascript.
             -   There is a modal feedback response once the message has been sent.
+            -   The message will be sent to the email address designated in the EmailJs template.
+
+        - ### 404 Page
+
+            -   This page contains error message and button to return to the Home Page
 
 - ## C. Future Features
 
