@@ -218,11 +218,11 @@ Lighthouse Testing before my second mentor session was done.
 
 ## E. Testing for Supported Devices
 
-- The websites each page was viewed and tested in Chrome Dev tool using different breakpoints emmanating the width and size of different desktop, laptop, and mobile devices. 
+- The websites each page was viewed and tested in Chrome Dev tool using different breakpoints emmanating the width and size of different desktop, laptop, and mobile devices. It was also on desktop view for Microsoft Edge an Mozilla Firefox.
 
 - The site was tested for Galaxy Notes II, Galaxy S III, Moto G4, Galaxy S5, Pixel 2, Pixel 2XL, iPhone6/7/8, iPhone6/7/8 Plus, iPad, iPad Pro, and Surface Duo.  
 
-- Please see attached file for the [table result]().  
+- Please see attached file for the [table result](docs/lumiere-testing-sheet.xlsx).  
 
 - A large amount of testing was done to ensure that all pages were linking correctly.
 
