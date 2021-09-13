@@ -301,7 +301,7 @@ footer .btn {
 
 
     .hero-image {
-        max-width: 100%;
+        max-width: 90%;
         height: 100vh;
         background-image: url("../images/hero-image-s.jpg");
         background-repeat: no-repeat;
@@ -312,6 +312,9 @@ footer .btn {
         -o-background-size: cover;
     }
 
+    .gen-heading {
+        text-align: center;
+    }
 
     .about-text {
         padding: 3em 1em 3em;
@@ -391,6 +394,17 @@ footer .btn {
 }
 
 @media only screen and (min-width: 600px) and (max-width: 767px) {
+    .hero-image {
+        width: 95%;
+        height: 100vh;
+        background-repeat: no-repeat;
+        background-position: center center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+
     .navbar-collapse {
         background-color: #ffe4e886;
     }
@@ -412,7 +426,7 @@ footer .btn {
     }
 
     .hero-image {
-        width: 90%;
+        width: 95%;
         height: 100vh;
         background-repeat: no-repeat;
         background-position: center center;
@@ -468,7 +482,7 @@ footer .btn {
     }
 
     .hero-image {
-        width: 90%;
+        width: 95%;
         height: 100vh;
         background-repeat: no-repeat;
         background-position: center center;
@@ -476,6 +490,14 @@ footer .btn {
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: cover;
+    }
+
+    .scents-img {
+        top: 35%;
+    }
+
+    .store-button {
+        font-size: smaller;
     }
 }
 
@@ -493,4 +515,6 @@ footer .btn {
     candles-img2 {
         padding-bottom: 2em;
     }
+
+
 }
