@@ -193,7 +193,7 @@ span .navbar-toggler-icon {
     padding: 7em 2em 3em;
 }
 
-.quiz-container{ 
+.quiz-container {
     padding-top: 1em;
 }
 
@@ -590,10 +590,6 @@ footer .btn {
 
     .scents-img {
         top: 35%;
-    }
-
-    .store-button {
-        font-size: smaller;
     }
 }
 
