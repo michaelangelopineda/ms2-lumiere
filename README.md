@@ -275,15 +275,16 @@ The target audience for this site is anyone who is interested in scented candles
     - Javascript code to change image when hovered over was taken from [Codepen](https://codepen.io/iacus/pen/zzPzvp).  
     - Javascript code for the scent quiz was taken and edited from [Codepen](https://codepen.io/edubz99/pen/PeRjNb?editors=1010)  
     - Javascript code for the map was adapted from Frozan [https://github.com/MariaLundgren/frozan] and [Google Map API Map Clustering Guide](https://developers.google.com/maps/documentation/javascript/marker-clustering), and was edited to fit the project.  
-    - Javascript code for the contact form was taken from EmailJs lesson Code Institue and modal response from [Frozan](https://github.com/MariaLundgren/frozan.  )
+    - Javascript code for the contact form was taken from EmailJs lesson Code Institue and modal response from [Frozan](https://github.com/MariaLundgren/frozan.)  
+    - Code for Window: DOMContentLoaded event taken from [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Window/DOMContentLoaded_event)
 
 
     ### References
 
     - I used the following milestones project as reference for mine.  
 
-    1. Maria Lundgren's [Frozan](https://github.com/MariaLundgren/frozan/tree/master/assets)
-    2. My previous MS1 Project [Rita Jessa](https://github.com/michaelangelopineda/milestones1-singer-ritajessa)   
+        1. Maria Lundgren's [Frozan](https://github.com/MariaLundgren/frozan/tree/master/assets)
+        2. My previous MS1 Project [Rita Jessa](https://github.com/michaelangelopineda/milestones1-singer-ritajessa)   
 
 
     - I also utilised Code Institutes's [Sample README](https://github.com/Code-Institute-Solutions/SampleREADME), [ReadMe template](https://github.com/Code-Institute-Solutions/readme-template), and videos and [Github's Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
