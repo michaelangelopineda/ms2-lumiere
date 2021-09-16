@@ -131,7 +131,7 @@ The target audience for this site is anyone who is interested in scented candles
 
         - ### Footer
 
-            -   The footer sits after the content of the last section at the bottom of pages, and includes a simple modal with the user’s email address and a subscribe button for newsletter for users to get latest updates about the store
+            -   The footer sits after the content of the last section at the bottom of pages, and includes a simple form with the user’s email address and a subscribe button for newsletter for users to get latest updates about the store. A successful feeback response will be initiated after subscribing to same.
             -   It also contains icons for the brand’s social media links for users to see their social media following. Lumiere's social media links are not yet linked but the icons open to a new window when clicked. 
             -   The footer will collapse into two sections in mobile view- modal atop social's link and will sit next to each other on tablet view.
 
@@ -141,7 +141,7 @@ The target audience for this site is anyone who is interested in scented candles
 
         - ### About Page
 
-            -   This page displays an image of the brand’s packaging and details about the brand
+            -   This page displays an image of the brand’s packaging and details about the brand.
             -   On mobile view, the image will sit atop the text and will act as the new hero image.
 
         - ### Candles Page
@@ -168,7 +168,7 @@ The target audience for this site is anyone who is interested in scented candles
 
         - ### 404 Page
 
-            -   This page contains error message and button to return to the Home Page
+            -   This page contains error message and button to return to the Home Page.
 
 - ## C. Future Features
 
@@ -201,7 +201,11 @@ The target audience for this site is anyone who is interested in scented candles
         g. [Adobe Spark:](https://spark.adobe.com/sp/design/post/urn:aaid:sc:AP:fdef19ec-0d82-4ef5-9522-01c05cf49f31?_branch_match_id=922094833261166892)  
                 - Photoshop was used to create the logo, resizing images and editing photos for the website.  
         h. [Balsamiq:](https://balsamiq.com/)  
-                - Balsamiq was used to create the [wireframes](https://github.com/michaelangelopineda/milestones1-singer-ritajessa/tree/master/docs/wireframes) during the design process.  
+                - Balsamiq was used to create the [wireframes](docs/wireframes) during the design process.  
+        i. [Favicon:](https://favicon.io/favicon-converter/)  
+                - Favicon was used to create the favicon icon beside Title in the tab on the browswer window
+        j. [TinyJPG:](https://tinyjpg.com/)  
+                - Tinyjpg was used to compress the images. 
 
 - ## D. Testing
 
@@ -261,37 +265,37 @@ The target audience for this site is anyone who is interested in scented candles
 
 - ## G. Credits
 
-### Code
-- The background image code came from this post in [stackoverflow](https://stackoverflow.com/questions/61450202/div-background-image-isnt-showing).  
-- The text shadow code was sourced form [css-tricks](https://css-tricks.com/almanac/properties/t/text-shadow/ for text shadow) so as the the [pseudo class code](https://css-tricks.com/remember-selectors-with-love-and-hate/) for the navlinks and the [object-fit and object-position code](https://css-tricks.com/on-object-fit-and-object-position) for proper aligntment of a photo.  
-- The box shadow code and `<input type="tel">` were from [W3schools](https://www.w3schools.com/css/css3_shadows_box.asp).  
-- The text-area place holder code was from [Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/::placeholder).
-- Responsive hero-image https://stackoverflow.com/questions/58413437/what-is-the-best-solution-for-making-a-responsive-hero-image
-- Media query breakpoints https://www.freecodecamp.org/news/css-media-queries-breakpoints-media-types-standard-resolutions-and-more/  
-- script js to change image when hovered over js //code taken from codepen https://codepen.io/iacus/pen/zzPzvp
-- scent quiz js code taken from code taken from https://codepen.io/edubz99/pen/PeRjNb?editors=1010
-- map js code codes taken from frozan and codeinwp and was altered to fit the project
--email js code from Code Institute lesson on emailJS and Frozan
+    ### Code
+    - The background image code came from this post in [stackoverflow](https://stackoverflow.com/questions/61450202/div-background-image-isnt-showing).  
+    - The text shadow code was sourced form [css-tricks](https://css-tricks.com/almanac/properties/t/text-shadow/ for text shadow) so as the the [pseudo class code](https://css-tricks.com/remember-selectors-with-love-and-hate/) for the navlinks and the [object-fit and object-position code](https://css-tricks.com/on-object-fit-and-object-position) for proper aligntment of a photo.  
+    - The box shadow code and `<input type="tel">` were from [W3schools](https://www.w3schools.com/css/css3_shadows_box.asp).  
+    - The text-area place holder code was from [Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/::placeholder).
+    - Responsive hero-image code was from [stakoverflow](https://stackoverflow.com/questions/58413437/what-is-the-best-solution-for-making-a-responsive-hero-image).  
+    - Media query breakpoints was taken from [freecodecamp](https://www.freecodecamp.org/news/css-media-queries-breakpoints-media-types-standard-resolutions-and-more/).  
+    - Javascript code to change image when hovered over was taken from [Codepen](https://codepen.io/iacus/pen/zzPzvp).  
+    - Javascript code for the scent quiz was taken and edited from [Codepen](https://codepen.io/edubz99/pen/PeRjNb?editors=1010)  
+    - Javascript code for the map was adapted from Frozan [https://github.com/MariaLundgren/frozan] and [Google Map API Map Clustering Guide](https://developers.google.com/maps/documentation/javascript/marker-clustering), and was edited to fit the project.  
+    - Javascript code for the contact form was taken from EmailJs lesson Code Institue and modal response from [Frozan](https://github.com/MariaLundgren/frozan.  )
 
 
-### References
+    ### References
 
-- I used the following milestones project as reference for mine.  
+    - I used the following milestones project as reference for mine.  
 
-1. Maria Lundgren's [Frozan](https://github.com/MariaLundgren/frozan/tree/master/assets)
-2. My previous MS1 Project [Rita Jessa](https://github.com/michaelangelopineda/milestones1-singer-ritajessa)   
+    1. Maria Lundgren's [Frozan](https://github.com/MariaLundgren/frozan/tree/master/assets)
+    2. My previous MS1 Project [Rita Jessa](https://github.com/michaelangelopineda/milestones1-singer-ritajessa)   
 
 
-- I also utilised Code Institutes's [Sample README](https://github.com/Code-Institute-Solutions/SampleREADME), [ReadMe template](https://github.com/Code-Institute-Solutions/readme-template), and videos and [Github's Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
+    - I also utilised Code Institutes's [Sample README](https://github.com/Code-Institute-Solutions/SampleREADME), [ReadMe template](https://github.com/Code-Institute-Solutions/readme-template), and videos and [Github's Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
 
-### Media
+    ### Media
 
-- All media contents are from Lumiere.
+    - All media contents are from Lumiere.
 
-### Acknowledgement
+    ### Acknowledgement
 
-- My Mentor Rohit for continuous helpful feedback.
+    - My Mentor Rohit for continuous helpful feedback.
 
-- Tutor support and Student Care at Code Institute for their support.
+    - Tutor support and Student Care at Code Institute for their support.
 
-- Lumiere for entrusting me this website.
+    - Lumiere for entrusting me this website.
