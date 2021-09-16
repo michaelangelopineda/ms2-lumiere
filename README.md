@@ -131,7 +131,7 @@ The target audience for this site is anyone who is interested in scented candles
 
         - ### Footer
 
-            -   The footer sits after the content of the last section at the bottom of pages, and includes a simple form with the user’s email address and a subscribe button for newsletter for users to get latest updates about the store. A successful feeback response will be initiated after subscribing to same.
+            -   The footer sits after the content of the last section at the bottom of pages, and includes a simple form with the user’s email address and a subscribe button for newsletter for users to get latest updates about the store. A **successful feeback response** will be initiated after subscribing to same.
             -   It also contains icons for the brand’s social media links for users to see their social media following. Lumiere's social media links are not yet linked but the icons open to a new window when clicked. 
             -   The footer will collapse into two sections in mobile view- modal atop social's link and will sit next to each other on tablet view.
 
@@ -161,7 +161,7 @@ The target audience for this site is anyone who is interested in scented candles
 
         - ### Contact Page
 
-            -   This page contains a form for inquiries so that users can get in touch with with the bran should they have any question. It was designed simple and very straightforward.
+            -   This page contains a form for inquiries so that users can get in touch with with the brand should they have any question. It was designed simple and very straightforward.
             -   The functionality of the form was achieve using EmailJs and Javascript.
             -   There is a modal feedback response once the message has been sent.
             -   The message will be sent to the email address designated in the EmailJs template.
@@ -292,7 +292,7 @@ The target audience for this site is anyone who is interested in scented candles
 
     ### Media
 
-    - All media contents are from Lumiere.
+    - All candle image are from Lumiere.
 
     ### Acknowledgement
 
