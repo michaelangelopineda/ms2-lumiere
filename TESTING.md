@@ -228,7 +228,10 @@ Lighthouse Testing before my second mentor session was done.
         -I created .jshintrc in the root directory of the project and coded `{"esversion": 6}` but the warnings did not disappear. After consulting with Tutor support, I was advised that i can just leave it as it is.  
 
 - The modal response for the contact form takes a few seconds before giving feedback but working. *Not fixed*  
-  
+
+- Wide spacing between bullet an list item. *Fixed*   
+        -Used `list-style-position:inside;` to target `ol` element  
+    
 ## D. Supported Browsers
 
 - The Website was tested on Google Chrome, Microsoft Edge and Mozilla Firefox browsers. 
