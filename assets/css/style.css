@@ -222,6 +222,18 @@ ol {
     margin-left: -43px;
 }
 
+.locations {
+    padding-bottom: 3px;
+    font-weight: 500;
+    letter-spacing: 3px;
+    font-size: large;
+    color: #7d5b60;
+}
+
+.locations:hover {
+    font-size: x-large;
+}
+
 /*contact*/
 /*modal response code taken from Frozan*/
 #modal-background {
@@ -432,7 +444,7 @@ footer .btn {
 
 }
 
-@media only screen and (min-width: 560) and (max-width: 599px){
+@media only screen and (min-width: 560px) and (max-width: 599px){
     #map {
         margin-left: 2em;
         margin-right: 2em;
@@ -441,6 +453,7 @@ footer .btn {
     .locations-text {
         text-align: center;
     }
+
 }
 
 @media only screen and (min-width: 600px) and (max-width: 767px) {
@@ -524,7 +537,7 @@ footer .btn {
     .scents-text {
         padding-bottom: 1em;
     }
-    
+
     #map {
         margin-left: 2em;
         margin-right: 2em;
@@ -573,7 +586,7 @@ footer .btn {
         padding-bottom: 3em;
     }
 
-    candles-img2 {
+    .candles-img2 {
         padding-bottom: 2em;
     }
 
