@@ -100,6 +100,8 @@ The target audience for this site is anyone who is interested in scented candles
     -   [Candles](docs/wireframes/lumiere-desktop-candles.png)
     -   [Stores](docs/wireframes/lumiere-desktop-stores.png)
     -   [Contact](docs/wireframes/lumiere-desktop-contact.png)
+    -   [Feedback](docs/wireframes/lumiere-desktop-feedback.png)  
+    -   [404](docs/wireframes/lumiere-desktop-404.png)  
 
     #### b. Tablet
 
@@ -107,7 +109,9 @@ The target audience for this site is anyone who is interested in scented candles
     -   [About](docs/wireframes/lumiere-tablet-about.png)
     -   [Candles](docs/wireframes/lumiere-tablet-candles.png)
     -   [Stores](docs/wireframes/lumiere-tablet-stores.png)
-    -   [Contact](docs/wireframes/lumiere-tablet-contact.png)
+    -   [Contact](docs/wireframes/lumiere-tablet-contact.png)  
+    -   [Feedback](docs/wireframes/lumiere-tablet-feedback.png)  
+    -   [404](docs/wireframes/lumiere-tablet-404.png)  
 
     #### c. Mobile
      
@@ -115,7 +119,9 @@ The target audience for this site is anyone who is interested in scented candles
     -   [About](docs/wireframes/lumiere-mobile-about.png)
     -   [Candles](docs/wireframes/lumiere-mobile-candles.png)
     -   [Stores](docs/wireframes/lumiere-mobile-stores.png)
-    -   [Contact](docs/wireframes/lumiere-mobile-contact.png)
+    -   [Contact](docs/wireframes/lumiere-mobile-contact.png)  
+    -   [Feedback](docs/wireframes/lumiere-mobile-feedback.png)  
+    -   [404](docs/wireframes/lumiere-mobile-404.png)  
 
 ## B. Features
 
