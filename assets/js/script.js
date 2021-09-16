@@ -1,47 +1,47 @@
-/**code taken from codepen https://codepen.io/iacus/pen/zzPzvp
-*to change image when hovered over
-*/
-
-$(function(){
-    $("#noir-img").on({
-     mouseenter: function(){
-      $(this).attr('src','assets/images/scents/noir-l.JPG');
+//Changes image when hovered over and changes back when mouse out
+$(function () {
+  $("#noir-img").on({
+    mouseenter: function () {
+      $(this).attr('src', 'assets/images/scents/noir-l.JPG');
     },
-    mouseleave: function(){
-      $(this).attr('src','assets/images/scents/noir-s.JPG');
+    mouseleave: function () {
+      $(this).attr('src', 'assets/images/scents/noir-s.JPG');
     }
-    });
   });
+});
 
-  $(function(){
-    $("#desir-img").on({
-     mouseenter: function(){
-      $(this).attr('src','assets/images/scents/desir-l.JPG');
+//Changes image when hovered over and changes back when mouse out
+$(function () {
+  $("#desir-img").on({
+    mouseenter: function () {
+      $(this).attr('src', 'assets/images/scents/desir-l.JPG');
     },
-    mouseleave: function(){
-      $(this).attr('src','assets/images/scents/desir-s.JPG');
+    mouseleave: function () {
+      $(this).attr('src', 'assets/images/scents/desir-s.JPG');
     }
-    });
   });
+});
 
-  $(function(){
-    $("#sedetendre-img").on({
-     mouseenter: function(){
-      $(this).attr('src','assets/images/scents/sedetendre-l.JPG');
+//Changes image when hovered over and changes back when mouse out
+$(function () {
+  $("#sedetendre-img").on({
+    mouseenter: function () {
+      $(this).attr('src', 'assets/images/scents/sedetendre-l.JPG');
     },
-    mouseleave: function(){
-      $(this).attr('src','assets/images/scents/sedetendre-s.JPG');
+    mouseleave: function () {
+      $(this).attr('src', 'assets/images/scents/sedetendre-s.JPG');
     }
-    });
   });
+});
 
-  $(function(){
-    $("#concentrer-img").on({
-     mouseenter: function(){
-      $(this).attr('src','assets/images/scents/concentrer-l.JPG');
+//Changes image when hovered over and changes back when mouse out
+$(function () {
+  $("#concentrer-img").on({
+    mouseenter: function () {
+      $(this).attr('src', 'assets/images/scents/concentrer-l.JPG');
     },
-    mouseleave: function(){
-      $(this).attr('src','assets/images/scents/concentrer-s.JPG');
+    mouseleave: function () {
+      $(this).attr('src', 'assets/images/scents/concentrer-s.JPG');
     }
-    });
   });
+});
