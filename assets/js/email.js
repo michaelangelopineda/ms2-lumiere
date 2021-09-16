@@ -4,7 +4,7 @@
  * @param {object} contactForm containing form data.
  * @returns {boolean} blocks from loading a new page.
  */
-function sendMail(contactForm) {
+ function sendMail(contactForm) {
     emailjs.send("service_xgft8wg", "lumiere", {
             "from_name": contactForm.name.value,
             "from_email": contactForm.email.value,
@@ -39,4 +39,4 @@ window.addEventListener('DOMContentLoaded', (event) => {
     document.getElementById("modal-button").addEventListener("click", function () {
         document.getElementById("modal-background").style.display = "none";
     });
-})
+});
