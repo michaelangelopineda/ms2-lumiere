@@ -193,6 +193,35 @@ span .navbar-toggler-icon {
     padding: 7em 2em 3em;
 }
 
+.quiz-container{ 
+    padding-top: 1em;
+}
+
+.quiz-title {
+    font-size: medium;
+    font-family: Roboto, sans-serif;
+}
+
+#question {
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+}
+
+.option {
+    padding-left: 1em;
+}
+
+.summary {
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    padding-top: 1em;
+}
+
+.summary-result {
+    font-family: Poppins, sans-serif;
+    font-weight: 500;
+}
+
 .scents-effect:hover {
     color: rgba(0, 0, 0, 0.651);
 }
