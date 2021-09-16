@@ -4,7 +4,6 @@
  * @param {object} contactForm containing form data.
  * @returns {boolean} blocks from loading a new page.
  */
-
 function sendMail(contactForm) {
     emailjs.send("service_xgft8wg", "lumiere", {
             "from_name": contactForm.name.value,
@@ -25,7 +24,7 @@ function sendMail(contactForm) {
                     "Something went wrong! Please try again.";
             }
         );
-    return false; 
+    return false;
 }
 
 /**
@@ -40,4 +39,4 @@ window.addEventListener('DOMContentLoaded', (event) => {
     document.getElementById("modal-button").addEventListener("click", function () {
         document.getElementById("modal-background").style.display = "none";
     });
-});
+})
