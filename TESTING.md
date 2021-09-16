@@ -30,154 +30,126 @@
 
 - **1. As a user (scented candle aficionado), I want to navigate the site easily so that I can find the content I am looking for.**  
         - Upon entering the site, the user will immediately be greeted with a typical site layout wherein the name of the site is displayed on the left side and the navigation links is at the right on which they can click to go to the desire page.  
-        -All sections of the page are clearly separated and contains header to determine what is the content of that section.
+        - All sections of the page are clearly separated and contains header to determine what is the content of that section.
         The footer sits at the bottom containing the social links and Subscription to Newsletter form.
 
 - **2. As a user (scented candle aficionado), I want to get info about the company so that I can be aware of what company I am buying from.**  
-        -There is a deicated About section in the page that gives a brief descripton of the brand.
-  
-1. On the Home at the top right corner of the page, click the About button (desktop)/  Toggler menu (hamburger icon) and click About on the dropdeown menu (mobile)
-2. Scroll down to view the whole content  
-  
-- Desktop  
-![How to go to About Page](docs/user-story-testing-img/about-desktop.png)  
-
-- Mobile  
-![How to go to About Page](docs/user-story-testing-img/about-mobile.png) 
+        - There is a dedicated About section in the page that gives a brief descripton of the brand.  
+                1. On the Home at the top right corner of the page, click the About button (desktop)/  Toggler menu (hamburger icon) and click About on the dropdeown menu (mobile)  
+                2. Scroll down to view the whole content  
+        - Desktop  
+        ![How to go to About Page](docs/user-story-testing-img/about-desktop.png)  
+        - Mobile  
+        ![How to go to About Page](docs/user-story-testing-img/about-mobile.png) 
 
 - **3. As a user (scented candle aficionado), I want to know the variety of scented candles they are selling So that I can choose which one that suits me.**    
-        -In the Candles section, containers used and the array of products of the brand are isplayed together with its name, image and escription of the product.
+        - In the Candles section, containers used and the array of products of the brand are isplayed together with its name, image and escription of the product.  
+                1. On the Home at the top right corner of the page, click the Candles button (desktop)/  Toggler menu (hamburger icon) and click Candles on the dropdeown menu (mobile).  
+                2. Scroll down to view the whole content.  
+                3. In the bottom most section of the the page, the list of all the scents available are listed.  
+                4. The default image for the scent section is the small product and when it is hovered over it will change to a sample of the large product.  
+        - Desktop  
+        ![How to view the Candles Page](docs/user-story-testing-img/candles-desktop.png)  
+        - Mobile  
+        ![How to go to Candles Page](docs/user-story-testing-img/candles-mobile.png) 
 
-1. On the Home at the top right corner of the page, click the Candles button (desktop)/  Toggler menu (hamburger icon) and click Candles on the dropdeown menu (mobile)
-2. Scroll down to view the whole content  
-3. In the bottom most section of the the page, the list of all the scents available are listed.
-4. The default image for the scent section is the small product and when it is hovered over it will change to a sample of the large product
-
-- Desktop  
-![How to view the Candles Page](docs/user-story-testing-img/candles-desktop.png)  
-
-- Mobile  
-![How to go to Candles Page](docs/user-story-testing-img/candles-mobile.png) 
-
-- **4. As a user (scented candle aficionado), I want to be able to contact the company and receive feedback when doing so so that if I have question, I can ask them easily/ communicate if need be.**
-        -There is Contact form that the the customer can fill in with his/her information should they have a message or query to brand.
-        -Upon clicking the Send button, once the message has been sent, there will be a modal dialogue box giving feedback to the customer that the message has been sent.
-
-1. On the Home at the top right corner of the page, click the Contact button (desktop)/  Toggler menu (hamburger icon) and click Contact on the dropdeown menu (mobile)
-2. Scroll down to view the whole content  
-3. Fill in the details required for a message to be sent.
-4. After filling out the form, click Send.
-5. A modal box will pop out as a feedback after successfully sending a message.
-
-- Desktop  
-![How to contact the company and receive feedback](docs/user-story-testing-img/contact-desktop.png)  
-
-- Mobile  
-![How to contact the company and receive feedback](docs/user-story-testing-img/contact-mobile.png) 
-
-6. An email will be sent to the designated Email assigned in EmailJS.  
-
-- Sample Email Sent to the assigned email address    
-
-![What the sample message sent woul look like](docs/user-story-testing-img/contact-email-sent.png)   
+- **4. As a user (scented candle aficionado), I want to be able to contact the company and receive feedback when doing so so that if I have question, I can ask them easily/ communicate if need be.**  
+        - There is Contact form that the the customer can fill in with his/her information should they have a message or query to brand.  
+        - Upon clicking the Send button, once the message has been sent, there will be a modal dialogue box giving feedback to the customer that the message has been sent.  
+                1. On the Home at the top right corner of the page, click the Contact button (desktop)/  Toggler menu (hamburger icon) and click Contact on the dropdeown menu (mobile).  
+                2. Scroll down to view the whole content  
+                3. Fill in the details required for a message to be sent.  
+                4. After filling out the form, click Send.  
+                5. A modal box will pop out as a feedback after successfully sending a message.  
+        - Desktop  
+        ![How to contact the company and receive feedback](docs/user-story-testing-img/contact-desktop.png)  
+        - Mobile  
+        ![How to contact the company and receive feedback](docs/user-story-testing-img/contact-mobile.png) 
+                6. An email will be sent to the designated Email assigned in EmailJS.  
+        - Sample Email Sent to the assigned email address    
+        ![What the sample message sent woul look like](docs/user-story-testing-img/contact-email-sent.png)   
 
 - **5. As a user (scented candle aficionado), I want to know the opening hours So that I will know what time I can visit and buy candles.**  
-        -There is a dedicated section in the Stores Page regarding the opening hours of the shops.
-
-1. On the Home at the top right corner of the page, click the Stores button (desktop)/  Toggler menu (hamburger icon) and click Stores on the dropdeown menu (mobile)
-2. Scroll down to view the opening hours. 
-
-- Desktop  
-![How to view the opening hours](docs/user-story-testing-img/openinghours-desktop.png)  
-
-- Mobile  
-![How to view the opening hours](docs/user-story-testing-img/openinghours-mobile.png) 
+        - There is a dedicated section in the Stores Page regarding the opening hours of the shops.  
+                1. On the Home at the top right corner of the page, click the Stores button (desktop)/  Toggler menu (hamburger icon) and click Stores on the dropdeown menu (mobile).  
+                2. Scroll down to view the opening hours.  
+        - Desktop  
+        ![How to view the opening hours](docs/user-story-testing-img/openinghours-desktop.png)  
+        - Mobile  
+        ![How to view the opening hours](docs/user-story-testing-img/openinghours-mobile.png) 
 
 - **6. As a user (scented candle aficionado), I want to know where the shops are So that I would know where to go.**    
-        -In the Stores Page, a map connected with the Google map API can be foun wherein the stores branch can be seen on buttons above the map itself.
-        -Upon clicking the location, tthe location will move in the center together with its marker.
+        - In the Stores Page, a map connected with the Google map API can be found wherein the store branches can be seen.  
+        - The locations are enumerated in an ordered list, when hovered over, the text will increase in size and when click, the marker designated for that location in the map will move to the center.  
+                1. On the Home at the top right corner of the page, click the Stores button (desktop)/  Toggler menu (hamburger icon) and click Stores on the dropdown menu (mobile).  
+                2. Click the Branch location on the enumerated ordered list.  
+                3. This will move the map marker of that store in center of the map.  
+                4. Upon clicking the marker, it will show the exact location of the Store branch.  
+        - Desktop  
+        ![How to use the Store location map](docs/user-story-testing-img/map-desktop.png)  
+        - Mobile  
+        ![How to use the Store location map](docs/user-story-testing-img/map-mobile.png) 
 
-1. On the Home at the top right corner of the page, click the Stores button (desktop)/  Toggler menu (hamburger icon) and click Stores on the dropdown menu (mobile).
-2. Click the Branch location button on top of the map.
-3. This will move the map marker of that store in center of the map.
-4. Upon clicking the marker, it will show the exact location of that Store branch.
-
-- Desktop  
-![How to use the Store location map](docs/user-story-testing-img/map-desktop.png)  
-
-- Mobile  
-![How to use the Store location map](docs/user-story-testing-img/map-mobile.png) 
-
-- **7. As a user (scented candle aficionado), I want to see what the product looks like So that I can have a visual on what to expect.**
-        -Several photos were added in the website to showcase all products offered by the brand.
+- **7. As a user (scented candle aficionado), I want to see what the product looks like So that I can have a visual on what to expect.**  
+        - Several photos were added in the website to showcase all products offered by the brand.
 
 - **8. As a user (scented candle aficionado), I want to get notification regarding new releases and promos of the shop So that I can get updates and discounts.**    
         - The footer section, which sits at the bottom of every page, contains a simple form on which user can fill in in their Email Address and click the Subscription button to subscribe.  
-        - The Subscribe button sits next to the Email and can be easily distinguished and intuitively clicked due to a contrasting colour to the Email input. 
-
-1. On the Home at the top right corner of the page, click the Contact button (desktop)/  Toggler menu (hamburger icon) and click Contact on the dropdeown menu (mobile)
-2. Scroll down to until the end of the page in the footer.  
-3. Fill in your email address and click Subscribe.
-
-- Desktop  
-![How to subscribe to newletter](docs/user-story-testing-img/newsletter-desktop.png)  
-
-- Mobile  
-![How to subscribe to newletter](docs/user-story-testing-img/newsletter-mobile.png)
-
-4. Currently, this is non functional but you can receive a 404 Error upon subscribing.
-5. Click the Return button to go back to the Home Page
-
-- Desktop  
-![What 404 will look like and what to do with it](docs/user-story-testing-img/404-desktop.png)  
-
-- Mobile  
-![What 404 will look like and what to do with it](docs/user-story-testing-img/404-mobile.png)
+        - The Subscribe button sits next to the Email and can be easily distinguished and intuitively clicked due to a contrasting colour to the Email input.  
+                1. On the Home at the top right corner of the page, click the Contact button (desktop)/  Toggler menu (hamburger icon) and click Contact on the dropdeown menu (mobile).  
+                2. Scroll down to until the end of the page in the footer.  
+                3. Fill in your email address and click Subscribe.  
+                4. Currently, this is non functional but for the moment, you will be redirected to a successful feeback page.  
+                5. Then, you may click the Return button to go back to the Home Page.  
+        - Desktop   
+        ![How to subscribe to newletter](docs/user-story-testing-img/newsletter-desktop.png)  
+        - Mobile   
+        ![How to subscribe to newletter](docs/user-story-testing-img/newsletter-mobile.png)  
 
 - **9. As a user (scented candle aficionado), I want to know the socials of the company So that I can review comments and feedback from previous customers.**    
-        - The footer section, which sits at the bottom of every page, contains icons to the brand’s social media accounts.  
-        - When clicked, the icons are opened in a new tab so that users can easily go back the brand's site after viewing the social media account. 
-
-1. On the Home at the top right corner of the page, click the Contact button (desktop)/  Toggler menu (hamburger icon) and click Contact on the dropdeown menu (mobile)
-2. Scroll down to until the end of the page in the footer.  
-3. Click on the social media icon an it will open a new page browser and you can view that account.
-
-![How to view the socials](docs/user-story-testing-img/socials-desktop.png)  
-
-- Mobile  
-![How to view the socials](docs/user-story-testing-img/socials-mobile.png) 
+        - The footer section, which sits at the bottom of every page, contains icons to the brand’s social media accounts.   
+        - When clicked, the icons are opened in a new tab so that users can easily go back the brand's site after viewing the social media account.  
+                1. On the Home at the top right corner of the page, click the Contact button (desktop)/  Toggler menu (hamburger icon) and click Contact on the dropdeown menu (mobile).   
+                2. Scroll down to until the end of the page in the footer.   
+                3. Click on the social media icon an it will open a new page browser and you can view that account.  
+        - Desktop   
+        ![How to view the socials](docs/user-story-testing-img/socials-desktop.png)  
+        - Mobile  
+        ![How to view the socials](docs/user-story-testing-img/socials-mobile.png)  
 
 - **10. As a user (scented candle aficionado), I want to be able to buy products online So that I would not need to go to the shop.**    
-        -Currently, this is not a feature added. Customers may send a message and discuss payment and delivery thru the form.
+        - Currently, this is not a feature added. Customers may send a message and discuss payment and delivery thru the form.
 
 - **11. As a user (scented candle aficionado), I want to be notified regarding request on the website So that I would know if I ‘m getting a response or not with my transactions and with what I am doing.**    
-        -Feedback when using the contact form is a feature of the site to give customer response regaring if the message has been sent as well as a 404 error message if something went wrong or a page being accessed or a transaction is invalid.
+        - Feedback when using the contact form is a feature of the site to give customer response regaring if the message has been sent as well as a Successful Subscription to newsletter response.  
+        - Also, a 404 error message if something went wrong or a page being accessed or if a transaction is invalid was made.  
+        - Desktop  
+        ![What 404 will look like and what to do with it](docs/user-story-testing-img/404-desktop.png)  
+        - Mobile  
+        ![What 404 will look like and what to do with it](docs/user-story-testing-img/404-mobile.png)  
   
 -   ### b. Potential Fan Visitor Goals  
   
 - **1. As a potential user (non- aficionado), I want to view the site simple so that I can browse with ease.**  
         - Upon entering the site, the user will immediately be greeted with a typical site layout wherein the name of the site is displayed on the left side and the navigation links is at the right on which they can click to go to the desire page.  
-        -All sections of the page are clearly separated and contains header to determine what is the content of that section.
+        - All sections of the page are clearly separated and contains header to determine what is the content of that section.
         The footer sits at the bottom containing the social links and Subscription to Newsletter form.  
 
 - **2. As a potential user (non- aficionado), I want to be able to contact someone if I need be so that my questions can be answered.**    
-        -There is Contact form that the the customer can fill in with his/her information should they have a message or query to brand.   
+        - There is Contact form that the the customer can fill in with his/her information should they have a message or query to brand.   
 
 - **3. As a potential user (non- aficionado), I want to know which product best suit my need so it will be easy for me to know what item to buy.** 
-        - In the candles section, there is an interactive quiz game on which upon completion of answering the questions, it will return a recommendation on what product best suits your needs.
-
-1. On the Home at the top right corner of the page, click the Candles button (desktop)/  Toggler menu (hamburger icon) and click Candles on the dropdeown menu (mobile)
-2. Scroll down to the Scent Quiz part.
-3. Click the radio button to answer the questions and click Next. If a question is not answered, there will be a pop up to tell you that you haven't click an answer.
-4. Upon successfully answering all the questions, the Next button will change to Finish.
-5. Click Finish an it will show the result.
-6. The Prev and Finish button will change to Restart. You may click this after reading your answer and you will be reirected to the Home Page or you may continue scrolling own to view the Scent that best suits you.
-
--![How to use the Scents Quiz](docs/user-story-testing-img/quiz-desktop.png)  
-
-- Mobile  
-![How to use the Scents Quiz](docs/user-story-testing-img/quiz-mobile.png) 
-
+        - In the candles section, there is an interactive quiz game on which upon completion of answering the questions, it will return a recommendation on what product best suits your needs.  
+                1. On the Home at the top right corner of the page, click the Candles button (desktop)/  Toggler menu (hamburger icon) and click Candles on the dropdeown menu (mobile).  
+                2. Scroll down to the Scent Quiz part.  
+                3. Click the radio button to answer the questions and click Next. If a question is not answered, there will be a pop up to tell you that you haven't click an answer.  
+                4. Upon successfully answering all the questions, the Next button will change to Finish.  
+                5. Click Finish and it will show the result.  
+                6. The Prev and Finish button will change to Restart. You may click this after reading your answer and you will be reirected to the Home Page or you may continue scrolling down to view the Scent that best suits you.  
+        - Desktop
+        ![How to use the Scents Quiz](docs/user-story-testing-img/quiz-desktop.png)  
+        - Mobile  
+        ![How to use the Scents Quiz](docs/user-story-testing-img/quiz-mobile.png) 
 
 -   ### c. Site Owner Goals
 
