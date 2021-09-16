@@ -197,6 +197,7 @@ Lighthouse Testing before my second mentor session was done.
 
 - Google/ EmailJs as undefined variable in Jshint. *Fixed*   
         -Added `/*global google*/` and `/*global emailjs*/` on line1 in their respective JavaScript files.
+        -Decided to remove both after discussing same with my mentor.
 
 - [`'template literal syntax is only available in ES6 ('use esversion: 6')'`](docs/issues-img/jshint-error-issue1.png) and [`'arrow function syntax (=>)' is only available in ES6 (use 'esversion: 6').`](docs/issues-img/jshint-error-issue2.png) warning in Jshint.  *Partially fixed*  
         -I created .jshintrc in the root directory of the project and coded `{"esversion": 6}` but the warnings did not disappear. After consulting with Tutor support, I was advised that i can just leave it as it is.  
