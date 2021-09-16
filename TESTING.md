@@ -233,6 +233,9 @@ Lighthouse Testing before my second mentor session was done.
 
 - Wide spacing between bullet an list item. *Fixed*   
         -Used `list-style-position:inside;` to target `ol` element  
+
+- On tablet and mobile, Navbar not collapsing back after clicking a navlink. *Fixed*   
+        -Added a Javascript code with an on click function to hide the navbar.         
     
 ## D. Supported Browsers
 

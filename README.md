@@ -278,6 +278,7 @@ The target audience for this site is anyone who is interested in scented candles
     - Javascript code for the contact form was taken from EmailJs lesson Code Institue and modal response from [Frozan](https://github.com/MariaLundgren/frozan.)  
     - Code for Window: DOMContentLoaded event taken from [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Window/DOMContentLoaded_event)
     - Code for adjusting space bwtween bullet and list item take from [stackoverflow](https://stackoverflow.com/questions/4373046/css-control-space-between-bullet-and-li)
+    - Code for navbar to collapse back taken from [stackoverflow](https://stackoverflow.com/questions/28472815/bootstrap-navbar-collapse-not-closing-on-click)
 
 
     ### References

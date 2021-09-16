@@ -1,3 +1,8 @@
+//Gets the navbar to collapse back after clicking a navlink
+$('.navbar-nav>li>a').on('click', function(){
+  $('.navbar-collapse').collapse('hide');
+});
+
 //Changes image when hovered over and changes back when mouse out
 $(function () {
   $("#noir-img").on({
