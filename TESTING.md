@@ -201,15 +201,15 @@ Lighthouse Testing before my second mentor session was done.
 
 - [`'template literal syntax is only available in ES6 ('use esversion: 6')'`](docs/issues-img/jshint-error-issue1.png) and [`'arrow function syntax (=>)' is only available in ES6 (use 'esversion: 6').`](docs/issues-img/jshint-error-issue2.png) warning in Jshint.  *Fixed*  
         -I created .jshintrc in the root directory of the project and coded `{"esversion": 6}` but the warnings did not disappear. After consulting with Tutor support, I was advised that i can just leave it as it is.  
-        -Also, i followed the Jshint configuration that my mentor shared to me and unchecked `When code is not in strict mode` an `Older environments (ES3)`. 
+        -Also, i followed the Jshint configuration that my mentor shared to me and unchecked `When code is not in strict mode` and `Older environments (ES3)`. 
 
 - The modal response for the contact form takes a few seconds before giving feedback but working. *Not fixed*  
 
-- Wide spacing between bullet an list item. *Fixed*   
+- Wide spacing between bullet and list item. *Fixed*   
         -Used `list-style-position:inside;` to target `ol` element  
 
 - On tablet and mobile, Navbar not collapsing back after clicking a navlink. *Fixed*   
-        -Added a Javascript code with an on click function to hide the navbar.         
+        -Added a Javascript code with and on click function to hide the navbar.         
     
 ## D. Supported Browsers
 
@@ -217,7 +217,7 @@ Lighthouse Testing before my second mentor session was done.
 
 ## E. Testing for Supported Devices
 
-- The websites each page was viewed and tested in Chrome Dev tool using different breakpoints emmanating the width and size of different desktop, laptop, and mobile devices. It was also on desktop view for Microsoft Edge an Mozilla Firefox.
+- The websites each page was viewed and tested in Chrome Dev tool using different breakpoints emmanating the width and size of different desktop, laptop, and mobile devices. It was also on desktop view for Microsoft Edge and Mozilla Firefox.
 
 - The site was tested for Galaxy Notes II, Galaxy S III, Moto G4, Galaxy S5, Pixel 2, Pixel 2XL, iPhone6/7/8, iPhone6/7/8 Plus, iPad, iPad Pro, and Surface Duo.  
 
