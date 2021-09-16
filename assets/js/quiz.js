@@ -155,8 +155,7 @@ function loadNextQuestion() {
             <p class="summary-result">8 - 14 - Desir </p>
             <p class="summary-result">7 - Noir</p>
             </div>
-            <button class="btn btn-secondary bg-color-button2 restart">Restart Quiz</button>`
-        ;
+            <button class="btn btn-secondary bg-color-button2 restart">Restart Quiz</button>`;
         return;
     }
 

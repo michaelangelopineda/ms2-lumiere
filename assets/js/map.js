@@ -1,3 +1,5 @@
+let map;
+
 //Default map view
 const MAP_LOCATION = {
   zoom: 11,
