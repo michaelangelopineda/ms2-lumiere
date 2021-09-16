@@ -67,7 +67,6 @@
     </header>
 
     <!--hero-image/home-->
-
     <div id="home" class="container-fluid hero-image"></div>
 
     <!--about-->
@@ -212,44 +211,28 @@
                 <h2 class="text-center uppercase gen-heading">Stores</h2>
             </div>
         </div>
-        <div class="container">
+        <div class="row">
 
-            <!--map buttons-->
-            <div class="row justify-content center">
-                <div class="col-lg-2 col-md-3 col-sm-3 col-6">
-                    <button type="button" class="store-button btn bg-color-button btn-outline-secondary"
-                        id="santryMap">Santry</button>
-                </div>
-                <div class="col-lg-2 col-md-3 col-sm-3 col-6">
-                    <button type="button" class="store-button  btn bg-color-button btn-outline-secondary"
-                        id="drumcondraMap">Drumcondra</button>
-                </div>
+            <div id="map" class="col-lg-7 offset-lg-1">
 
-                <div class="col-lg-2 col-md-3 col-sm-3 col-6">
-                    <button type="button" class="store-button btn bg-color-button btn-outline-secondary"
-                        id="swordsMap">Swords</button>
-                </div>
-                <div class="col-lg-2 col-md-3 col-sm-3 col-6">
-                    <button type="button" class=" store-button btn bg-color-button btn-outline-secondary"
-                        id="blanchardstownMap">Blanchardstown</button>
-                </div>
             </div>
-            <div class="row">
 
-                <!--map-->
-                <div class="col-12 col-lg-8">
-                    <div id="map"></div>
-                </div>
 
-                <!--opening hours-->
-                <div
-                    class="col-sm-12 col-md-12 col-lg-4 d-flex justify-content-start justify-content-lg-center opening-hours-text ">
-                    <div>
-                        <h3 class="uppercase gen-heading italic pt-2">Opening hours</h3>
-                        <p> Monday - Friday: 9:00 - 17:00 <br /> Saturday: 9:00 - 17:00 <br /> Sunday: 11:00 - 16:00</p>
-                    </div>
-                </div>
+            <div class="col-lg-4 locations-text">
+                <h3 class="uppercase gen-heading italic pt-2">Locations</h3>
+                <p>Click the locations below to see in the map.</p>
+                <br>
+                <ol>
+                    <li id="santryMap"><span>Santry</span></li>
+                    <li id="drumcondraMap"><span>Drumcondra</span></li>
+                    <li id="swordsMap"><span>Swords</span></li>
+                    <li id="blanchardstownMap"><span>Blanchardstown</span></li>
+                </ol>
+                <br>
+                <h3 class="uppercase gen-heading italic pt-2">Opening hours</h3>
+                <p> Monday - Friday: 9:00 - 17:00 <br /> Saturday: 9:00 - 17:00 <br /> Sunday: 11:00 - 16:00</p>
             </div>
+        </div>
         </div>
     </section>
 
