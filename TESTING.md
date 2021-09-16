@@ -3,7 +3,9 @@
 
 ### a. [HTML Validation](https://validator.w3.org/#validate_by_input)  
 
-- [index.html](docs/html-validation-img/html valiation.png)
+- [index.html](docs/html-validation-img/index-html-validation.png)
+- [feedback.html](docs/html-validation-img/feedback-html-validation.png)
+- [404.html](docs/html-validation-img/404-html-validation.png)
 
 
 ### b. CSS Validation  
