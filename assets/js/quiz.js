@@ -91,7 +91,6 @@ const OPTION_THREE = document.querySelector('.option3');
 const OPTION_FOUR = document.querySelector('.option4');
 const NEXT_BUTTON = document.querySelector('.next');
 const PREVIOUS_BUTTON = document.querySelector('.previous');
-const RESTART_BUTTON = document.querySelector('.restart');
 const RESULT = document.querySelector('.result');
 
 //Function to generate question 
