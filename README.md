@@ -157,8 +157,9 @@ The target audience for this site is anyone who is interested in scented candles
         - ### Stores Page
 
             -   The Stores Page contains the locations, map and opening hours of the stores.
-            -   The map is an interactive one wherein when the customer clicks on the location atop the map, the map will respond to it and show the place with a marker on it. Upon clicking the marker, the exact address of the place will be shown to the user. The functionality of same was achieve using Google map API and Javascript.
-
+            -   The map is an interactive one wherein when the customer clicks on the location enumerated in the ordered list, the map will respond to it and center the place with a marker on it.  
+            -   Upon clicking the marker, the exact address of the place will be shown to the user. The functionality of same was achieve using Google map API and Javascript.  
+  
         - ### Contact Page
 
             -   This page contains a form for inquiries so that users can get in touch with with the brand should they have any question. It was designed simple and very straightforward.
