@@ -175,7 +175,8 @@ The target audience for this site is anyone who is interested in scented candles
 
     -   I would like to add fully functional online shopping function to site.   
     -   I would like my “Subscribe to my Newsletter”  fully functional as it requires Backend Development.   
-    -   I would like amend the design and layout depending on the reception and feedback of users.   
+    -   I would like amend the design and layout depending on the reception and feedback of users.
+    -   I would like to implement faster modal response for the contact form as it takes a few seconds before giving feedback.  
 
 - ## D. Technologies Used
 
