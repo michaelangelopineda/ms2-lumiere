@@ -1,10 +1,10 @@
-/*
-*code taken from https://discuss.emberjs.com/t/google-is-not-defined-jshint-error/5762
-* so that emailjs will not be an undefined variable during jshint validation
-*/
-/*global emailjs*/
+/**
+ * Sends message from customers using information from the contact form using 
+ *    EmailJs functionality.
+ * @param {object} contactForm containing form data.
+ * @returns {boolean} blocks from loading a new page.
+ */
 
-// codes taken from Code Institute lesson on emailJS and Frozan
 function sendMail(contactForm) {
     emailjs.send("service_xgft8wg", "lumiere", {
             "from_name": contactForm.name.value,
@@ -14,29 +14,30 @@ function sendMail(contactForm) {
         })
         .then(
             function (response) {
-                console.log("SUCCESS", response);
                 document.getElementById("contactForm").reset();
                 showModal();
                 document.getElementById("modalText").innerHTML =
                     "Thank you for your message! <br> We will get back to you as soon as possible.";
             },
             function (error) {
-                console.log("FAILED", error);
                 showModal();
                 document.getElementById("modalText").innerHTML =
                     "Something went wrong! Please try again.";
             }
         );
-    return false; // To block from loading a new page
+    return false; 
 }
 
 /**
- * Shows modal when submitting contact form and adds click function to modal button to be able to close modal.
+ * Shows modal when submitting contact form and adds click function to modal
+ *     button to be able to close modal.
  */
- function showModal() {
+function showModal() {
     document.getElementById("modal-background").style.display = "block";
 }
 
-document.getElementById("modal-button").addEventListener("click", function () {
-    document.getElementById("modal-background").style.display = "none";
+window.addEventListener('DOMContentLoaded', (event) => {
+    document.getElementById("modal-button").addEventListener("click", function () {
+        document.getElementById("modal-background").style.display = "none";
+    });
 });
