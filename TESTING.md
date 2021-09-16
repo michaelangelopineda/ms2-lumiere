@@ -199,8 +199,9 @@ Lighthouse Testing before my second mentor session was done.
         -Added `/*global google*/` and `/*global emailjs*/` on line1 in their respective JavaScript files.
         -Decided to remove both after discussing same with my mentor.
 
-- [`'template literal syntax is only available in ES6 ('use esversion: 6')'`](docs/issues-img/jshint-error-issue1.png) and [`'arrow function syntax (=>)' is only available in ES6 (use 'esversion: 6').`](docs/issues-img/jshint-error-issue2.png) warning in Jshint.  *Partially fixed*  
+- [`'template literal syntax is only available in ES6 ('use esversion: 6')'`](docs/issues-img/jshint-error-issue1.png) and [`'arrow function syntax (=>)' is only available in ES6 (use 'esversion: 6').`](docs/issues-img/jshint-error-issue2.png) warning in Jshint.  *Fixed*  
         -I created .jshintrc in the root directory of the project and coded `{"esversion": 6}` but the warnings did not disappear. After consulting with Tutor support, I was advised that i can just leave it as it is.  
+        -Also, i followed the Jshint configuration that my mentor shared to me and unchecked `When code is not in strict mode` an `Older environments (ES3)`. 
 
 - The modal response for the contact form takes a few seconds before giving feedback but working. *Not fixed*  
 
